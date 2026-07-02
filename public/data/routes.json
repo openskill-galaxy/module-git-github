@@ -1,0 +1,1490 @@
+[
+  {
+    "id": "gt-route-01",
+    "slug": "3天Git入门",
+    "title": "3天Git入门",
+    "description": "3天Git入门",
+    "summary": "3天Git入门",
+    "targetUser": "入门",
+    "durationDays": 3,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-3天",
+        "description": "学习Git 与版本控制入门",
+        "courseId": "gt-course-01",
+        "lessonId": "gt-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-3天",
+        "description": "学习Git 安装、配置与基本概念",
+        "courseId": "gt-course-02",
+        "lessonId": "gt-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-3天",
+        "description": "学习工作区、暂存区与仓库",
+        "courseId": "gt-course-03",
+        "lessonId": "gt-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-3天",
+        "description": "学习add、commit、status 与 log",
+        "courseId": "gt-course-04",
+        "lessonId": "gt-lesson-012"
+      },
+      {
+        "order": 5,
+        "title": "第29-3天",
+        "description": "学习分支基础与分支管理",
+        "courseId": "gt-course-05",
+        "lessonId": "gt-lesson-018"
+      }
+    ],
+    "recommendedCourseIds": [
+      "gt-course-01",
+      "gt-course-02",
+      "gt-course-03",
+      "gt-course-04",
+      "gt-course-05"
+    ],
+    "recommendedLessonIds": [
+      "gt-lesson-001",
+      "gt-lesson-002",
+      "gt-lesson-003",
+      "gt-lesson-004",
+      "gt-lesson-005",
+      "gt-lesson-006",
+      "gt-lesson-007",
+      "gt-lesson-008",
+      "gt-lesson-009",
+      "gt-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Git",
+      "熟练协作",
+      "能用Actions",
+      "能部署Pages"
+    ]
+  },
+  {
+    "id": "gt-route-02",
+    "slug": "7天Git基础",
+    "title": "7天Git基础",
+    "description": "7天Git基础",
+    "summary": "7天Git基础",
+    "targetUser": "基础",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Git 与版本控制入门",
+        "courseId": "gt-course-01",
+        "lessonId": "gt-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习Git 安装、配置与基本概念",
+        "courseId": "gt-course-02",
+        "lessonId": "gt-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习工作区、暂存区与仓库",
+        "courseId": "gt-course-03",
+        "lessonId": "gt-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习add、commit、status 与 log",
+        "courseId": "gt-course-04",
+        "lessonId": "gt-lesson-012"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习分支基础与分支管理",
+        "courseId": "gt-course-05",
+        "lessonId": "gt-lesson-018"
+      }
+    ],
+    "recommendedCourseIds": [
+      "gt-course-01",
+      "gt-course-02",
+      "gt-course-03",
+      "gt-course-04",
+      "gt-course-05"
+    ],
+    "recommendedLessonIds": [
+      "gt-lesson-001",
+      "gt-lesson-002",
+      "gt-lesson-003",
+      "gt-lesson-004",
+      "gt-lesson-005",
+      "gt-lesson-006",
+      "gt-lesson-007",
+      "gt-lesson-008",
+      "gt-lesson-009",
+      "gt-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Git",
+      "熟练协作",
+      "能用Actions",
+      "能部署Pages"
+    ]
+  },
+  {
+    "id": "gt-route-03",
+    "slug": "14天分支协作",
+    "title": "14天分支协作",
+    "description": "14天分支协作",
+    "summary": "14天分支协作",
+    "targetUser": "协作",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Git 与版本控制入门",
+        "courseId": "gt-course-01",
+        "lessonId": "gt-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习Git 安装、配置与基本概念",
+        "courseId": "gt-course-02",
+        "lessonId": "gt-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习工作区、暂存区与仓库",
+        "courseId": "gt-course-03",
+        "lessonId": "gt-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习add、commit、status 与 log",
+        "courseId": "gt-course-04",
+        "lessonId": "gt-lesson-012"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习分支基础与分支管理",
+        "courseId": "gt-course-05",
+        "lessonId": "gt-lesson-018"
+      }
+    ],
+    "recommendedCourseIds": [
+      "gt-course-01",
+      "gt-course-02",
+      "gt-course-03",
+      "gt-course-04",
+      "gt-course-05"
+    ],
+    "recommendedLessonIds": [
+      "gt-lesson-001",
+      "gt-lesson-002",
+      "gt-lesson-003",
+      "gt-lesson-004",
+      "gt-lesson-005",
+      "gt-lesson-006",
+      "gt-lesson-007",
+      "gt-lesson-008",
+      "gt-lesson-009",
+      "gt-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Git",
+      "熟练协作",
+      "能用Actions",
+      "能部署Pages"
+    ]
+  },
+  {
+    "id": "gt-route-04",
+    "slug": "21天Git精通",
+    "title": "21天Git精通",
+    "description": "21天Git精通",
+    "summary": "21天Git精通",
+    "targetUser": "精通",
+    "durationDays": 21,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Git 与版本控制入门",
+        "courseId": "gt-course-01",
+        "lessonId": "gt-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习Git 安装、配置与基本概念",
+        "courseId": "gt-course-02",
+        "lessonId": "gt-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习工作区、暂存区与仓库",
+        "courseId": "gt-course-03",
+        "lessonId": "gt-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-21天",
+        "description": "学习add、commit、status 与 log",
+        "courseId": "gt-course-04",
+        "lessonId": "gt-lesson-012"
+      },
+      {
+        "order": 5,
+        "title": "第29-21天",
+        "description": "学习分支基础与分支管理",
+        "courseId": "gt-course-05",
+        "lessonId": "gt-lesson-018"
+      }
+    ],
+    "recommendedCourseIds": [
+      "gt-course-01",
+      "gt-course-02",
+      "gt-course-03",
+      "gt-course-04",
+      "gt-course-05"
+    ],
+    "recommendedLessonIds": [
+      "gt-lesson-001",
+      "gt-lesson-002",
+      "gt-lesson-003",
+      "gt-lesson-004",
+      "gt-lesson-005",
+      "gt-lesson-006",
+      "gt-lesson-007",
+      "gt-lesson-008",
+      "gt-lesson-009",
+      "gt-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Git",
+      "熟练协作",
+      "能用Actions",
+      "能部署Pages"
+    ]
+  },
+  {
+    "id": "gt-route-05",
+    "slug": "30天GitHub",
+    "title": "30天GitHub",
+    "description": "30天GitHub",
+    "summary": "30天GitHub",
+    "targetUser": "GitHub",
+    "durationDays": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Git 与版本控制入门",
+        "courseId": "gt-course-01",
+        "lessonId": "gt-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习Git 安装、配置与基本概念",
+        "courseId": "gt-course-02",
+        "lessonId": "gt-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习工作区、暂存区与仓库",
+        "courseId": "gt-course-03",
+        "lessonId": "gt-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-28天",
+        "description": "学习add、commit、status 与 log",
+        "courseId": "gt-course-04",
+        "lessonId": "gt-lesson-012"
+      },
+      {
+        "order": 5,
+        "title": "第29-30天",
+        "description": "学习分支基础与分支管理",
+        "courseId": "gt-course-05",
+        "lessonId": "gt-lesson-018"
+      }
+    ],
+    "recommendedCourseIds": [
+      "gt-course-01",
+      "gt-course-02",
+      "gt-course-03",
+      "gt-course-04",
+      "gt-course-05"
+    ],
+    "recommendedLessonIds": [
+      "gt-lesson-001",
+      "gt-lesson-002",
+      "gt-lesson-003",
+      "gt-lesson-004",
+      "gt-lesson-005",
+      "gt-lesson-006",
+      "gt-lesson-007",
+      "gt-lesson-008",
+      "gt-lesson-009",
+      "gt-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Git",
+      "熟练协作",
+      "能用Actions",
+      "能部署Pages"
+    ]
+  },
+  {
+    "id": "gt-route-06",
+    "slug": "45天开源贡献",
+    "title": "45天开源贡献",
+    "description": "45天开源贡献",
+    "summary": "45天开源贡献",
+    "targetUser": "开源",
+    "durationDays": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Git 与版本控制入门",
+        "courseId": "gt-course-01",
+        "lessonId": "gt-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习Git 安装、配置与基本概念",
+        "courseId": "gt-course-02",
+        "lessonId": "gt-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习工作区、暂存区与仓库",
+        "courseId": "gt-course-03",
+        "lessonId": "gt-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-28天",
+        "description": "学习add、commit、status 与 log",
+        "courseId": "gt-course-04",
+        "lessonId": "gt-lesson-012"
+      },
+      {
+        "order": 5,
+        "title": "第29-35天",
+        "description": "学习分支基础与分支管理",
+        "courseId": "gt-course-05",
+        "lessonId": "gt-lesson-018"
+      }
+    ],
+    "recommendedCourseIds": [
+      "gt-course-01",
+      "gt-course-02",
+      "gt-course-03",
+      "gt-course-04",
+      "gt-course-05"
+    ],
+    "recommendedLessonIds": [
+      "gt-lesson-001",
+      "gt-lesson-002",
+      "gt-lesson-003",
+      "gt-lesson-004",
+      "gt-lesson-005",
+      "gt-lesson-006",
+      "gt-lesson-007",
+      "gt-lesson-008",
+      "gt-lesson-009",
+      "gt-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Git",
+      "熟练协作",
+      "能用Actions",
+      "能部署Pages"
+    ]
+  },
+  {
+    "id": "gt-route-07",
+    "slug": "基础命令专项",
+    "title": "基础命令专项",
+    "description": "基础命令专项",
+    "summary": "基础命令专项",
+    "targetUser": "命令",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Git 与版本控制入门",
+        "courseId": "gt-course-01",
+        "lessonId": "gt-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习Git 安装、配置与基本概念",
+        "courseId": "gt-course-02",
+        "lessonId": "gt-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习工作区、暂存区与仓库",
+        "courseId": "gt-course-03",
+        "lessonId": "gt-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习add、commit、status 与 log",
+        "courseId": "gt-course-04",
+        "lessonId": "gt-lesson-012"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习分支基础与分支管理",
+        "courseId": "gt-course-05",
+        "lessonId": "gt-lesson-018"
+      }
+    ],
+    "recommendedCourseIds": [
+      "gt-course-01",
+      "gt-course-02",
+      "gt-course-03",
+      "gt-course-04",
+      "gt-course-05"
+    ],
+    "recommendedLessonIds": [
+      "gt-lesson-001",
+      "gt-lesson-002",
+      "gt-lesson-003",
+      "gt-lesson-004",
+      "gt-lesson-005",
+      "gt-lesson-006",
+      "gt-lesson-007",
+      "gt-lesson-008",
+      "gt-lesson-009",
+      "gt-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Git",
+      "熟练协作",
+      "能用Actions",
+      "能部署Pages"
+    ]
+  },
+  {
+    "id": "gt-route-08",
+    "slug": "分支专项",
+    "title": "分支专项",
+    "description": "分支专项",
+    "summary": "分支专项",
+    "targetUser": "分支",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Git 与版本控制入门",
+        "courseId": "gt-course-01",
+        "lessonId": "gt-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习Git 安装、配置与基本概念",
+        "courseId": "gt-course-02",
+        "lessonId": "gt-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习工作区、暂存区与仓库",
+        "courseId": "gt-course-03",
+        "lessonId": "gt-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习add、commit、status 与 log",
+        "courseId": "gt-course-04",
+        "lessonId": "gt-lesson-012"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习分支基础与分支管理",
+        "courseId": "gt-course-05",
+        "lessonId": "gt-lesson-018"
+      }
+    ],
+    "recommendedCourseIds": [
+      "gt-course-01",
+      "gt-course-02",
+      "gt-course-03",
+      "gt-course-04",
+      "gt-course-05"
+    ],
+    "recommendedLessonIds": [
+      "gt-lesson-001",
+      "gt-lesson-002",
+      "gt-lesson-003",
+      "gt-lesson-004",
+      "gt-lesson-005",
+      "gt-lesson-006",
+      "gt-lesson-007",
+      "gt-lesson-008",
+      "gt-lesson-009",
+      "gt-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Git",
+      "熟练协作",
+      "能用Actions",
+      "能部署Pages"
+    ]
+  },
+  {
+    "id": "gt-route-09",
+    "slug": "冲突解决专项",
+    "title": "冲突解决专项",
+    "description": "冲突解决专项",
+    "summary": "冲突解决专项",
+    "targetUser": "冲突",
+    "durationDays": 3,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-3天",
+        "description": "学习Git 与版本控制入门",
+        "courseId": "gt-course-01",
+        "lessonId": "gt-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-3天",
+        "description": "学习Git 安装、配置与基本概念",
+        "courseId": "gt-course-02",
+        "lessonId": "gt-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-3天",
+        "description": "学习工作区、暂存区与仓库",
+        "courseId": "gt-course-03",
+        "lessonId": "gt-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-3天",
+        "description": "学习add、commit、status 与 log",
+        "courseId": "gt-course-04",
+        "lessonId": "gt-lesson-012"
+      },
+      {
+        "order": 5,
+        "title": "第29-3天",
+        "description": "学习分支基础与分支管理",
+        "courseId": "gt-course-05",
+        "lessonId": "gt-lesson-018"
+      }
+    ],
+    "recommendedCourseIds": [
+      "gt-course-01",
+      "gt-course-02",
+      "gt-course-03",
+      "gt-course-04",
+      "gt-course-05"
+    ],
+    "recommendedLessonIds": [
+      "gt-lesson-001",
+      "gt-lesson-002",
+      "gt-lesson-003",
+      "gt-lesson-004",
+      "gt-lesson-005",
+      "gt-lesson-006",
+      "gt-lesson-007",
+      "gt-lesson-008",
+      "gt-lesson-009",
+      "gt-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Git",
+      "熟练协作",
+      "能用Actions",
+      "能部署Pages"
+    ]
+  },
+  {
+    "id": "gt-route-10",
+    "slug": "远程协作专项",
+    "title": "远程协作专项",
+    "description": "远程协作专项",
+    "summary": "远程协作专项",
+    "targetUser": "远程",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Git 与版本控制入门",
+        "courseId": "gt-course-01",
+        "lessonId": "gt-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习Git 安装、配置与基本概念",
+        "courseId": "gt-course-02",
+        "lessonId": "gt-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习工作区、暂存区与仓库",
+        "courseId": "gt-course-03",
+        "lessonId": "gt-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习add、commit、status 与 log",
+        "courseId": "gt-course-04",
+        "lessonId": "gt-lesson-012"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习分支基础与分支管理",
+        "courseId": "gt-course-05",
+        "lessonId": "gt-lesson-018"
+      }
+    ],
+    "recommendedCourseIds": [
+      "gt-course-01",
+      "gt-course-02",
+      "gt-course-03",
+      "gt-course-04",
+      "gt-course-05"
+    ],
+    "recommendedLessonIds": [
+      "gt-lesson-001",
+      "gt-lesson-002",
+      "gt-lesson-003",
+      "gt-lesson-004",
+      "gt-lesson-005",
+      "gt-lesson-006",
+      "gt-lesson-007",
+      "gt-lesson-008",
+      "gt-lesson-009",
+      "gt-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Git",
+      "熟练协作",
+      "能用Actions",
+      "能部署Pages"
+    ]
+  },
+  {
+    "id": "gt-route-11",
+    "slug": "Actions专项",
+    "title": "Actions专项",
+    "description": "Actions专项",
+    "summary": "Actions专项",
+    "targetUser": "Actions",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Git 与版本控制入门",
+        "courseId": "gt-course-01",
+        "lessonId": "gt-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习Git 安装、配置与基本概念",
+        "courseId": "gt-course-02",
+        "lessonId": "gt-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习工作区、暂存区与仓库",
+        "courseId": "gt-course-03",
+        "lessonId": "gt-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习add、commit、status 与 log",
+        "courseId": "gt-course-04",
+        "lessonId": "gt-lesson-012"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习分支基础与分支管理",
+        "courseId": "gt-course-05",
+        "lessonId": "gt-lesson-018"
+      }
+    ],
+    "recommendedCourseIds": [
+      "gt-course-01",
+      "gt-course-02",
+      "gt-course-03",
+      "gt-course-04",
+      "gt-course-05"
+    ],
+    "recommendedLessonIds": [
+      "gt-lesson-001",
+      "gt-lesson-002",
+      "gt-lesson-003",
+      "gt-lesson-004",
+      "gt-lesson-005",
+      "gt-lesson-006",
+      "gt-lesson-007",
+      "gt-lesson-008",
+      "gt-lesson-009",
+      "gt-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Git",
+      "熟练协作",
+      "能用Actions",
+      "能部署Pages"
+    ]
+  },
+  {
+    "id": "gt-route-12",
+    "slug": "Pages专项",
+    "title": "Pages专项",
+    "description": "Pages专项",
+    "summary": "Pages专项",
+    "targetUser": "Pages",
+    "durationDays": 3,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-3天",
+        "description": "学习Git 与版本控制入门",
+        "courseId": "gt-course-01",
+        "lessonId": "gt-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-3天",
+        "description": "学习Git 安装、配置与基本概念",
+        "courseId": "gt-course-02",
+        "lessonId": "gt-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-3天",
+        "description": "学习工作区、暂存区与仓库",
+        "courseId": "gt-course-03",
+        "lessonId": "gt-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-3天",
+        "description": "学习add、commit、status 与 log",
+        "courseId": "gt-course-04",
+        "lessonId": "gt-lesson-012"
+      },
+      {
+        "order": 5,
+        "title": "第29-3天",
+        "description": "学习分支基础与分支管理",
+        "courseId": "gt-course-05",
+        "lessonId": "gt-lesson-018"
+      }
+    ],
+    "recommendedCourseIds": [
+      "gt-course-01",
+      "gt-course-02",
+      "gt-course-03",
+      "gt-course-04",
+      "gt-course-05"
+    ],
+    "recommendedLessonIds": [
+      "gt-lesson-001",
+      "gt-lesson-002",
+      "gt-lesson-003",
+      "gt-lesson-004",
+      "gt-lesson-005",
+      "gt-lesson-006",
+      "gt-lesson-007",
+      "gt-lesson-008",
+      "gt-lesson-009",
+      "gt-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Git",
+      "熟练协作",
+      "能用Actions",
+      "能部署Pages"
+    ]
+  },
+  {
+    "id": "gt-route-13",
+    "slug": "面试专项",
+    "title": "面试专项",
+    "description": "面试专项",
+    "summary": "面试专项",
+    "targetUser": "面试",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Git 与版本控制入门",
+        "courseId": "gt-course-01",
+        "lessonId": "gt-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习Git 安装、配置与基本概念",
+        "courseId": "gt-course-02",
+        "lessonId": "gt-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习工作区、暂存区与仓库",
+        "courseId": "gt-course-03",
+        "lessonId": "gt-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习add、commit、status 与 log",
+        "courseId": "gt-course-04",
+        "lessonId": "gt-lesson-012"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习分支基础与分支管理",
+        "courseId": "gt-course-05",
+        "lessonId": "gt-lesson-018"
+      }
+    ],
+    "recommendedCourseIds": [
+      "gt-course-01",
+      "gt-course-02",
+      "gt-course-03",
+      "gt-course-04",
+      "gt-course-05"
+    ],
+    "recommendedLessonIds": [
+      "gt-lesson-001",
+      "gt-lesson-002",
+      "gt-lesson-003",
+      "gt-lesson-004",
+      "gt-lesson-005",
+      "gt-lesson-006",
+      "gt-lesson-007",
+      "gt-lesson-008",
+      "gt-lesson-009",
+      "gt-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Git",
+      "熟练协作",
+      "能用Actions",
+      "能部署Pages"
+    ]
+  },
+  {
+    "id": "gt-route-14",
+    "slug": "期末冲刺",
+    "title": "期末冲刺",
+    "description": "期末冲刺",
+    "summary": "期末冲刺",
+    "targetUser": "期末",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Git 与版本控制入门",
+        "courseId": "gt-course-01",
+        "lessonId": "gt-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习Git 安装、配置与基本概念",
+        "courseId": "gt-course-02",
+        "lessonId": "gt-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习工作区、暂存区与仓库",
+        "courseId": "gt-course-03",
+        "lessonId": "gt-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习add、commit、status 与 log",
+        "courseId": "gt-course-04",
+        "lessonId": "gt-lesson-012"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习分支基础与分支管理",
+        "courseId": "gt-course-05",
+        "lessonId": "gt-lesson-018"
+      }
+    ],
+    "recommendedCourseIds": [
+      "gt-course-01",
+      "gt-course-02",
+      "gt-course-03",
+      "gt-course-04",
+      "gt-course-05"
+    ],
+    "recommendedLessonIds": [
+      "gt-lesson-001",
+      "gt-lesson-002",
+      "gt-lesson-003",
+      "gt-lesson-004",
+      "gt-lesson-005",
+      "gt-lesson-006",
+      "gt-lesson-007",
+      "gt-lesson-008",
+      "gt-lesson-009",
+      "gt-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Git",
+      "熟练协作",
+      "能用Actions",
+      "能部署Pages"
+    ]
+  },
+  {
+    "id": "gt-route-15",
+    "slug": "Git复习",
+    "title": "Git复习",
+    "description": "Git复习",
+    "summary": "Git复习",
+    "targetUser": "复习",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Git 与版本控制入门",
+        "courseId": "gt-course-01",
+        "lessonId": "gt-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习Git 安装、配置与基本概念",
+        "courseId": "gt-course-02",
+        "lessonId": "gt-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习工作区、暂存区与仓库",
+        "courseId": "gt-course-03",
+        "lessonId": "gt-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习add、commit、status 与 log",
+        "courseId": "gt-course-04",
+        "lessonId": "gt-lesson-012"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习分支基础与分支管理",
+        "courseId": "gt-course-05",
+        "lessonId": "gt-lesson-018"
+      }
+    ],
+    "recommendedCourseIds": [
+      "gt-course-01",
+      "gt-course-02",
+      "gt-course-03",
+      "gt-course-04",
+      "gt-course-05"
+    ],
+    "recommendedLessonIds": [
+      "gt-lesson-001",
+      "gt-lesson-002",
+      "gt-lesson-003",
+      "gt-lesson-004",
+      "gt-lesson-005",
+      "gt-lesson-006",
+      "gt-lesson-007",
+      "gt-lesson-008",
+      "gt-lesson-009",
+      "gt-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Git",
+      "熟练协作",
+      "能用Actions",
+      "能部署Pages"
+    ]
+  },
+  {
+    "id": "gt-route-16",
+    "slug": "开源实战",
+    "title": "开源实战",
+    "description": "开源实战",
+    "summary": "开源实战",
+    "targetUser": "开源",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Git 与版本控制入门",
+        "courseId": "gt-course-01",
+        "lessonId": "gt-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习Git 安装、配置与基本概念",
+        "courseId": "gt-course-02",
+        "lessonId": "gt-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习工作区、暂存区与仓库",
+        "courseId": "gt-course-03",
+        "lessonId": "gt-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习add、commit、status 与 log",
+        "courseId": "gt-course-04",
+        "lessonId": "gt-lesson-012"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习分支基础与分支管理",
+        "courseId": "gt-course-05",
+        "lessonId": "gt-lesson-018"
+      }
+    ],
+    "recommendedCourseIds": [
+      "gt-course-01",
+      "gt-course-02",
+      "gt-course-03",
+      "gt-course-04",
+      "gt-course-05"
+    ],
+    "recommendedLessonIds": [
+      "gt-lesson-001",
+      "gt-lesson-002",
+      "gt-lesson-003",
+      "gt-lesson-004",
+      "gt-lesson-005",
+      "gt-lesson-006",
+      "gt-lesson-007",
+      "gt-lesson-008",
+      "gt-lesson-009",
+      "gt-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Git",
+      "熟练协作",
+      "能用Actions",
+      "能部署Pages"
+    ]
+  },
+  {
+    "id": "gt-route-17",
+    "slug": "团队协作",
+    "title": "团队协作",
+    "description": "团队协作",
+    "summary": "团队协作",
+    "targetUser": "协作",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Git 与版本控制入门",
+        "courseId": "gt-course-01",
+        "lessonId": "gt-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习Git 安装、配置与基本概念",
+        "courseId": "gt-course-02",
+        "lessonId": "gt-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习工作区、暂存区与仓库",
+        "courseId": "gt-course-03",
+        "lessonId": "gt-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习add、commit、status 与 log",
+        "courseId": "gt-course-04",
+        "lessonId": "gt-lesson-012"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习分支基础与分支管理",
+        "courseId": "gt-course-05",
+        "lessonId": "gt-lesson-018"
+      }
+    ],
+    "recommendedCourseIds": [
+      "gt-course-01",
+      "gt-course-02",
+      "gt-course-03",
+      "gt-course-04",
+      "gt-course-05"
+    ],
+    "recommendedLessonIds": [
+      "gt-lesson-001",
+      "gt-lesson-002",
+      "gt-lesson-003",
+      "gt-lesson-004",
+      "gt-lesson-005",
+      "gt-lesson-006",
+      "gt-lesson-007",
+      "gt-lesson-008",
+      "gt-lesson-009",
+      "gt-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Git",
+      "熟练协作",
+      "能用Actions",
+      "能部署Pages"
+    ]
+  },
+  {
+    "id": "gt-route-18",
+    "slug": "Git大总结",
+    "title": "Git大总结",
+    "description": "Git大总结",
+    "summary": "Git大总结",
+    "targetUser": "总结",
+    "durationDays": 3,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-3天",
+        "description": "学习Git 与版本控制入门",
+        "courseId": "gt-course-01",
+        "lessonId": "gt-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-3天",
+        "description": "学习Git 安装、配置与基本概念",
+        "courseId": "gt-course-02",
+        "lessonId": "gt-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-3天",
+        "description": "学习工作区、暂存区与仓库",
+        "courseId": "gt-course-03",
+        "lessonId": "gt-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-3天",
+        "description": "学习add、commit、status 与 log",
+        "courseId": "gt-course-04",
+        "lessonId": "gt-lesson-012"
+      },
+      {
+        "order": 5,
+        "title": "第29-3天",
+        "description": "学习分支基础与分支管理",
+        "courseId": "gt-course-05",
+        "lessonId": "gt-lesson-018"
+      }
+    ],
+    "recommendedCourseIds": [
+      "gt-course-01",
+      "gt-course-02",
+      "gt-course-03",
+      "gt-course-04",
+      "gt-course-05"
+    ],
+    "recommendedLessonIds": [
+      "gt-lesson-001",
+      "gt-lesson-002",
+      "gt-lesson-003",
+      "gt-lesson-004",
+      "gt-lesson-005",
+      "gt-lesson-006",
+      "gt-lesson-007",
+      "gt-lesson-008",
+      "gt-lesson-009",
+      "gt-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握Git",
+      "熟练协作",
+      "能用Actions",
+      "能部署Pages"
+    ]
+  },
+  {
+    "id": "gt-route-19",
+    "slug": "git命令复习",
+    "title": "git命令复习",
+    "description": "git命令复习",
+    "summary": "git命令复习",
+    "targetUser": "用户",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "gt-route-20",
+    "slug": "分支策略",
+    "title": "分支策略",
+    "description": "分支策略",
+    "summary": "分支策略",
+    "targetUser": "用户",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "gt-route-21",
+    "slug": "冲突解决",
+    "title": "冲突解决",
+    "description": "冲突解决",
+    "summary": "冲突解决",
+    "targetUser": "用户",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "gt-route-22",
+    "slug": "远程操作",
+    "title": "远程操作",
+    "description": "远程操作",
+    "summary": "远程操作",
+    "targetUser": "用户",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "gt-route-23",
+    "slug": "Actions进阶",
+    "title": "Actions进阶",
+    "description": "Actions进阶",
+    "summary": "Actions进阶",
+    "targetUser": "用户",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "gt-route-24",
+    "slug": "Pages高级",
+    "title": "Pages高级",
+    "description": "Pages高级",
+    "summary": "Pages高级",
+    "targetUser": "用户",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "gt-route-25",
+    "slug": "开源贡献",
+    "title": "开源贡献",
+    "description": "开源贡献",
+    "summary": "开源贡献",
+    "targetUser": "用户",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "gt-route-26",
+    "slug": "团队规范",
+    "title": "团队规范",
+    "description": "团队规范",
+    "summary": "团队规范",
+    "targetUser": "用户",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "gt-route-27",
+    "slug": "GitLab使用",
+    "title": "GitLab使用",
+    "description": "GitLab使用",
+    "summary": "GitLab使用",
+    "targetUser": "用户",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "gt-route-28",
+    "slug": "Bitbucket",
+    "title": "Bitbucket",
+    "description": "Bitbucket",
+    "summary": "Bitbucket",
+    "targetUser": "用户",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "gt-route-29",
+    "slug": "SourceTree",
+    "title": "SourceTree",
+    "description": "SourceTree",
+    "summary": "SourceTree",
+    "targetUser": "用户",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "gt-route-30",
+    "slug": "GitKraken",
+    "title": "GitKraken",
+    "description": "GitKraken",
+    "summary": "GitKraken",
+    "targetUser": "用户",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "id": "mod-git-github",
+  "slug": "module-git-github",
+  "title": "Git 与 GitHub 工程协作",
+  "subtitle": "面向编程学习者和团队协作者",
+  "description": "面向编程学习者开源协作者团队项目成员和准备实习的人系统学习Git基础版本控制分支合并冲突解决远程仓库GitHubPull RequestIssuesActionsPages项目协作规范和开源工作流的静态学习模块。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "Git",
+    "GitHub",
+    "版本控制",
+    "分支",
+    "Pull Request",
+    "Actions",
+    "GitHub Pages",
+    "开源协作"
+  ],
+  "estimatedHours": 120,
+  "difficulty": "beginner",
+  "updatedAt": "2026-07-02T12:00:00.000Z",
+  "coverEmoji": "🔀",
+  "repoUrl": "https://github.com/openskill-galaxy/module-git-github",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 80,
+    "knowledgePoints": 739,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 18,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 318
+  }
+}

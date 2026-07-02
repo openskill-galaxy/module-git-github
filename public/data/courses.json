@@ -1,0 +1,418 @@
+[
+  {
+    "id": "gt-course-01",
+    "order": 1,
+    "slug": "Git与版本控制入门",
+    "title": "Git 与版本控制入门",
+    "description": "版本控制概念、Git起源、Git与SVN区别、学习路线。",
+    "estimatedHours": 4,
+    "difficulty": "easy",
+    "tags": [
+      "Git 与版本控制入门"
+    ],
+    "lessonIds": [
+      "gt-lesson-001",
+      "gt-lesson-002",
+      "gt-lesson-003",
+      "gt-lesson-004"
+    ],
+    "totalLessons": 4,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握Git版本控制",
+      "熟练GitHub协作",
+      "能创建Actions工作流",
+      "具备团队协作能力"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "gt-course-02",
+    "order": 2,
+    "slug": "Git安装配置与基本概念",
+    "title": "Git 安装、配置与基本概念",
+    "description": "安装Git、配置用户名邮箱、工作区暂存区仓库概念。",
+    "estimatedHours": 4,
+    "difficulty": "easy",
+    "tags": [
+      "Git 安装、配置与基本概念"
+    ],
+    "lessonIds": [
+      "gt-lesson-005",
+      "gt-lesson-006",
+      "gt-lesson-007",
+      "gt-lesson-008"
+    ],
+    "totalLessons": 4,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握Git版本控制",
+      "熟练GitHub协作",
+      "能创建Actions工作流",
+      "具备团队协作能力"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "gt-course-03",
+    "order": 3,
+    "slug": "工作区暂存区与仓库",
+    "title": "工作区、暂存区与仓库",
+    "description": "git init/add/commit三种状态转换、.git目录结构。",
+    "estimatedHours": 6,
+    "difficulty": "easy",
+    "tags": [
+      "工作区、暂存区与仓库"
+    ],
+    "lessonIds": [
+      "gt-lesson-009",
+      "gt-lesson-010",
+      "gt-lesson-011"
+    ],
+    "totalLessons": 3,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握Git版本控制",
+      "熟练GitHub协作",
+      "能创建Actions工作流",
+      "具备团队协作能力"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "gt-course-04",
+    "order": 4,
+    "slug": "addcommitstatus与log",
+    "title": "add、commit、status 与 log",
+    "description": "git add/commit/status/log/diff等基础命令。",
+    "estimatedHours": 8,
+    "difficulty": "easy",
+    "tags": [
+      "add、commit、status 与 log"
+    ],
+    "lessonIds": [
+      "gt-lesson-012",
+      "gt-lesson-013",
+      "gt-lesson-014",
+      "gt-lesson-015",
+      "gt-lesson-016",
+      "gt-lesson-017"
+    ],
+    "totalLessons": 6,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握Git版本控制",
+      "熟练GitHub协作",
+      "能创建Actions工作流",
+      "具备团队协作能力"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "gt-course-05",
+    "order": 5,
+    "slug": "分支基础与分支管理",
+    "title": "分支基础与分支管理",
+    "description": "分支概念、branch/checkout/switch、分支策略。",
+    "estimatedHours": 8,
+    "difficulty": "medium",
+    "tags": [
+      "分支基础与分支管理"
+    ],
+    "lessonIds": [
+      "gt-lesson-018",
+      "gt-lesson-019",
+      "gt-lesson-020",
+      "gt-lesson-021",
+      "gt-lesson-022",
+      "gt-lesson-023"
+    ],
+    "totalLessons": 6,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握Git版本控制",
+      "熟练GitHub协作",
+      "能创建Actions工作流",
+      "具备团队协作能力"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "gt-course-06",
+    "order": 6,
+    "slug": "mergerebase与冲突解决",
+    "title": "merge、rebase 与冲突解决",
+    "description": "merge三种方式、rebase变基、冲突标记与解决。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "merge、rebase 与冲突解决"
+    ],
+    "lessonIds": [
+      "gt-lesson-024",
+      "gt-lesson-025",
+      "gt-lesson-026",
+      "gt-lesson-027",
+      "gt-lesson-028",
+      "gt-lesson-029",
+      "gt-lesson-030",
+      "gt-lesson-031"
+    ],
+    "totalLessons": 8,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握Git版本控制",
+      "熟练GitHub协作",
+      "能创建Actions工作流",
+      "具备团队协作能力"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "gt-course-07",
+    "order": 7,
+    "slug": "resetrevert与历史回退",
+    "title": "reset、revert 与历史回退",
+    "description": "reset三种模式、revert还原、reflog恢复。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "reset、revert 与历史回退"
+    ],
+    "lessonIds": [
+      "gt-lesson-032",
+      "gt-lesson-033",
+      "gt-lesson-034",
+      "gt-lesson-035",
+      "gt-lesson-036",
+      "gt-lesson-037"
+    ],
+    "totalLessons": 6,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握Git版本控制",
+      "熟练GitHub协作",
+      "能创建Actions工作流",
+      "具备团队协作能力"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "gt-course-08",
+    "order": 8,
+    "slug": "remoteclonepull与push",
+    "title": "remote、clone、pull 与 push",
+    "description": "远程仓库管理、clone/pull/push/fetch、远程分支。",
+    "estimatedHours": 8,
+    "difficulty": "medium",
+    "tags": [
+      "remote、clone、pull 与 push"
+    ],
+    "lessonIds": [
+      "gt-lesson-038",
+      "gt-lesson-039",
+      "gt-lesson-040",
+      "gt-lesson-041",
+      "gt-lesson-042",
+      "gt-lesson-043",
+      "gt-lesson-044"
+    ],
+    "totalLessons": 7,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握Git版本控制",
+      "熟练GitHub协作",
+      "能创建Actions工作流",
+      "具备团队协作能力"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "gt-course-09",
+    "order": 9,
+    "slug": "GitHub仓库管理",
+    "title": "GitHub 仓库管理",
+    "description": "创建仓库、Settings、分支保护、Collaborator、SSH/HTTPS。",
+    "estimatedHours": 6,
+    "difficulty": "easy",
+    "tags": [
+      "GitHub 仓库管理"
+    ],
+    "lessonIds": [
+      "gt-lesson-045",
+      "gt-lesson-046",
+      "gt-lesson-047",
+      "gt-lesson-048",
+      "gt-lesson-049",
+      "gt-lesson-050"
+    ],
+    "totalLessons": 6,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握Git版本控制",
+      "熟练GitHub协作",
+      "能创建Actions工作流",
+      "具备团队协作能力"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "gt-course-10",
+    "order": 10,
+    "slug": "IssuesPullRequest与CodeReview",
+    "title": "Issues、Pull Request 与 Code Review",
+    "description": "Issue创建、PR流程、Code Review、模板、标签。",
+    "estimatedHours": 10,
+    "difficulty": "medium",
+    "tags": [
+      "Issues、Pull Request 与 Code Review"
+    ],
+    "lessonIds": [
+      "gt-lesson-051",
+      "gt-lesson-052",
+      "gt-lesson-053",
+      "gt-lesson-054",
+      "gt-lesson-055",
+      "gt-lesson-056",
+      "gt-lesson-057"
+    ],
+    "totalLessons": 7,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握Git版本控制",
+      "熟练GitHub协作",
+      "能创建Actions工作流",
+      "具备团队协作能力"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "gt-course-11",
+    "order": 11,
+    "slug": "GitHubActions入门",
+    "title": "GitHub Actions 入门",
+    "description": "Workflow/Job/Step、触发事件、矩阵构建、缓存、artifact。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "GitHub Actions 入门"
+    ],
+    "lessonIds": [
+      "gt-lesson-058",
+      "gt-lesson-059",
+      "gt-lesson-060",
+      "gt-lesson-061",
+      "gt-lesson-062",
+      "gt-lesson-063",
+      "gt-lesson-064",
+      "gt-lesson-065"
+    ],
+    "totalLessons": 8,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握Git版本控制",
+      "熟练GitHub协作",
+      "能创建Actions工作流",
+      "具备团队协作能力"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "gt-course-12",
+    "order": 12,
+    "slug": "GitHubPages部署",
+    "title": "GitHub Pages 部署",
+    "description": "Pages配置、静态站点部署、自定义域名、Actions部署。",
+    "estimatedHours": 6,
+    "difficulty": "medium",
+    "tags": [
+      "GitHub Pages 部署"
+    ],
+    "lessonIds": [
+      "gt-lesson-066",
+      "gt-lesson-067",
+      "gt-lesson-068",
+      "gt-lesson-069"
+    ],
+    "totalLessons": 4,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握Git版本控制",
+      "熟练GitHub协作",
+      "能创建Actions工作流",
+      "具备团队协作能力"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "gt-course-13",
+    "order": 13,
+    "slug": "团队协作规范与提交规范",
+    "title": "团队协作规范与提交规范",
+    "description": "Gitflow、Conventional Commits、Code Review规范。",
+    "estimatedHours": 8,
+    "difficulty": "medium",
+    "tags": [
+      "团队协作规范与提交规范"
+    ],
+    "lessonIds": [
+      "gt-lesson-070",
+      "gt-lesson-071",
+      "gt-lesson-072",
+      "gt-lesson-073"
+    ],
+    "totalLessons": 4,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握Git版本控制",
+      "熟练GitHub协作",
+      "能创建Actions工作流",
+      "具备团队协作能力"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "gt-course-14",
+    "order": 14,
+    "slug": "开源贡献项目作品集与综合实战",
+    "title": "开源贡献、项目作品集与综合实战",
+    "description": "Fork贡献流程、项目展示、综合项目协作。",
+    "estimatedHours": 8,
+    "difficulty": "medium",
+    "tags": [
+      "开源贡献、项目作品集与综合实战"
+    ],
+    "lessonIds": [
+      "gt-lesson-074",
+      "gt-lesson-075",
+      "gt-lesson-076",
+      "gt-lesson-077",
+      "gt-lesson-078",
+      "gt-lesson-079",
+      "gt-lesson-080"
+    ],
+    "totalLessons": 7,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握Git版本控制",
+      "熟练GitHub协作",
+      "能创建Actions工作流",
+      "具备团队协作能力"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  }
+]
