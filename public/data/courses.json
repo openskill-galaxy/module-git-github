@@ -25,7 +25,14 @@
       "能创建Actions工作流",
       "具备团队协作能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "gt-lesson-001",
+      "gt-lesson-002",
+      "gt-lesson-003",
+      "gt-lesson-004"
+    ],
+    "summary": "版本控制概念、Git起源、Git与SVN区别、学习路线。"
   },
   {
     "id": "gt-course-02",
@@ -53,7 +60,14 @@
       "能创建Actions工作流",
       "具备团队协作能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "gt-lesson-005",
+      "gt-lesson-006",
+      "gt-lesson-007",
+      "gt-lesson-008"
+    ],
+    "summary": "安装Git、配置用户名邮箱、工作区暂存区仓库概念。"
   },
   {
     "id": "gt-course-03",
@@ -80,7 +94,13 @@
       "能创建Actions工作流",
       "具备团队协作能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "gt-lesson-009",
+      "gt-lesson-010",
+      "gt-lesson-011"
+    ],
+    "summary": "git init/add/commit三种状态转换、.git目录结构。"
   },
   {
     "id": "gt-course-04",
@@ -110,7 +130,16 @@
       "能创建Actions工作流",
       "具备团队协作能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "gt-lesson-012",
+      "gt-lesson-013",
+      "gt-lesson-014",
+      "gt-lesson-015",
+      "gt-lesson-016",
+      "gt-lesson-017"
+    ],
+    "summary": "git add/commit/status/log/diff等基础命令。"
   },
   {
     "id": "gt-course-05",
@@ -140,7 +169,16 @@
       "能创建Actions工作流",
       "具备团队协作能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "gt-lesson-018",
+      "gt-lesson-019",
+      "gt-lesson-020",
+      "gt-lesson-021",
+      "gt-lesson-022",
+      "gt-lesson-023"
+    ],
+    "summary": "分支概念、branch/checkout/switch、分支策略。"
   },
   {
     "id": "gt-course-06",
@@ -172,7 +210,18 @@
       "能创建Actions工作流",
       "具备团队协作能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "gt-lesson-024",
+      "gt-lesson-025",
+      "gt-lesson-026",
+      "gt-lesson-027",
+      "gt-lesson-028",
+      "gt-lesson-029",
+      "gt-lesson-030",
+      "gt-lesson-031"
+    ],
+    "summary": "merge三种方式、rebase变基、冲突标记与解决。"
   },
   {
     "id": "gt-course-07",
@@ -202,7 +251,16 @@
       "能创建Actions工作流",
       "具备团队协作能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "gt-lesson-032",
+      "gt-lesson-033",
+      "gt-lesson-034",
+      "gt-lesson-035",
+      "gt-lesson-036",
+      "gt-lesson-037"
+    ],
+    "summary": "reset三种模式、revert还原、reflog恢复。"
   },
   {
     "id": "gt-course-08",
@@ -233,7 +291,17 @@
       "能创建Actions工作流",
       "具备团队协作能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "gt-lesson-038",
+      "gt-lesson-039",
+      "gt-lesson-040",
+      "gt-lesson-041",
+      "gt-lesson-042",
+      "gt-lesson-043",
+      "gt-lesson-044"
+    ],
+    "summary": "远程仓库管理、clone/pull/push/fetch、远程分支。"
   },
   {
     "id": "gt-course-09",
@@ -263,7 +331,16 @@
       "能创建Actions工作流",
       "具备团队协作能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "gt-lesson-045",
+      "gt-lesson-046",
+      "gt-lesson-047",
+      "gt-lesson-048",
+      "gt-lesson-049",
+      "gt-lesson-050"
+    ],
+    "summary": "创建仓库、Settings、分支保护、Collaborator、SSH/HTTPS。"
   },
   {
     "id": "gt-course-10",
@@ -294,7 +371,17 @@
       "能创建Actions工作流",
       "具备团队协作能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "gt-lesson-051",
+      "gt-lesson-052",
+      "gt-lesson-053",
+      "gt-lesson-054",
+      "gt-lesson-055",
+      "gt-lesson-056",
+      "gt-lesson-057"
+    ],
+    "summary": "Issue创建、PR流程、Code Review、模板、标签。"
   },
   {
     "id": "gt-course-11",
@@ -326,7 +413,18 @@
       "能创建Actions工作流",
       "具备团队协作能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "gt-lesson-058",
+      "gt-lesson-059",
+      "gt-lesson-060",
+      "gt-lesson-061",
+      "gt-lesson-062",
+      "gt-lesson-063",
+      "gt-lesson-064",
+      "gt-lesson-065"
+    ],
+    "summary": "Workflow/Job/Step、触发事件、矩阵构建、缓存、artifact。"
   },
   {
     "id": "gt-course-12",
@@ -354,7 +452,14 @@
       "能创建Actions工作流",
       "具备团队协作能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "gt-lesson-066",
+      "gt-lesson-067",
+      "gt-lesson-068",
+      "gt-lesson-069"
+    ],
+    "summary": "Pages配置、静态站点部署、自定义域名、Actions部署。"
   },
   {
     "id": "gt-course-13",
@@ -382,7 +487,14 @@
       "能创建Actions工作流",
       "具备团队协作能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "gt-lesson-070",
+      "gt-lesson-071",
+      "gt-lesson-072",
+      "gt-lesson-073"
+    ],
+    "summary": "Gitflow、Conventional Commits、Code Review规范。"
   },
   {
     "id": "gt-course-14",
@@ -413,6 +525,16 @@
       "能创建Actions工作流",
       "具备团队协作能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "gt-lesson-074",
+      "gt-lesson-075",
+      "gt-lesson-076",
+      "gt-lesson-077",
+      "gt-lesson-078",
+      "gt-lesson-079",
+      "gt-lesson-080"
+    ],
+    "summary": "Fork贡献流程、项目展示、综合项目协作。"
   }
 ]

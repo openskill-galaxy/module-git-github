@@ -18,7 +18,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 什么是版本控制\n\n## 概述\n什么是版本控制是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握什么是版本控制提高效率。",
+    "knowledgePoints": [
+      "gt-kp-001"
+    ]
   },
   {
     "id": "gt-lesson-002",
@@ -39,7 +43,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Git历史与特点\n\n## 概述\nGit历史与特点是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握Git历史与特点提高效率。",
+    "knowledgePoints": [
+      "gt-kp-002"
+    ]
   },
   {
     "id": "gt-lesson-003",
@@ -60,7 +68,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Git与SVN对比\n\n## 概述\nGit与SVN对比是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握Git与SVN对比提高效率。",
+    "knowledgePoints": [
+      "gt-kp-003"
+    ]
   },
   {
     "id": "gt-lesson-004",
@@ -81,7 +93,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 学习路径\n\n## 概述\n学习路径是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握学习路径提高效率。",
+    "knowledgePoints": [
+      "gt-kp-004"
+    ]
   },
   {
     "id": "gt-lesson-005",
@@ -102,7 +118,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 安装Git\n\n## 概述\n安装Git是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握安装Git提高效率。",
+    "knowledgePoints": [
+      "gt-kp-005"
+    ]
   },
   {
     "id": "gt-lesson-006",
@@ -123,7 +143,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# config配置\n\n## 概述\nconfig配置是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握config配置提高效率。",
+    "knowledgePoints": [
+      "gt-kp-006"
+    ]
   },
   {
     "id": "gt-lesson-007",
@@ -145,7 +169,12 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 三个区概念\n\n## 概述\n三个区概念是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握三个区概念提高效率。",
+    "knowledgePoints": [
+      "gt-kp-007",
+      "gt-kp-008"
+    ]
   },
   {
     "id": "gt-lesson-008",
@@ -166,7 +195,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# .git目录\n\n## 概述\n.git目录是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握.git目录提高效率。",
+    "knowledgePoints": [
+      "gt-kp-009"
+    ]
   },
   {
     "id": "gt-lesson-009",
@@ -187,7 +220,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# git init\n\n## 概述\ngit init是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握git init提高效率。",
+    "knowledgePoints": [
+      "gt-kp-010"
+    ]
   },
   {
     "id": "gt-lesson-010",
@@ -208,7 +245,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 工作区文件状态\n\n## 概述\n工作区文件状态是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握工作区文件状态提高效率。",
+    "knowledgePoints": [
+      "gt-kp-011"
+    ]
   },
   {
     "id": "gt-lesson-011",
@@ -229,7 +270,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Untracked/Modified/Staged\n\n## 概述\nUntracked/Modified/Staged是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握Untracked/Modified/Staged提高效率。",
+    "knowledgePoints": [
+      "gt-kp-012"
+    ]
   },
   {
     "id": "gt-lesson-012",
@@ -250,7 +295,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# git add\n\n## 概述\ngit add是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握git add提高效率。",
+    "knowledgePoints": [
+      "gt-kp-013"
+    ]
   },
   {
     "id": "gt-lesson-013",
@@ -271,7 +320,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# git commit\n\n## 概述\ngit commit是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握git commit提高效率。",
+    "knowledgePoints": [
+      "gt-kp-014"
+    ]
   },
   {
     "id": "gt-lesson-014",
@@ -292,7 +345,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# git status\n\n## 概述\ngit status是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握git status提高效率。",
+    "knowledgePoints": [
+      "gt-kp-015"
+    ]
   },
   {
     "id": "gt-lesson-015",
@@ -314,7 +371,12 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# git log\n\n## 概述\ngit log是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握git log提高效率。",
+    "knowledgePoints": [
+      "gt-kp-016",
+      "gt-kp-017"
+    ]
   },
   {
     "id": "gt-lesson-016",
@@ -335,7 +397,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# git diff\n\n## 概述\ngit diff是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握git diff提高效率。",
+    "knowledgePoints": [
+      "gt-kp-018"
+    ]
   },
   {
     "id": "gt-lesson-017",
@@ -356,7 +422,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# git show\n\n## 概述\ngit show是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握git show提高效率。",
+    "knowledgePoints": [
+      "gt-kp-019"
+    ]
   },
   {
     "id": "gt-lesson-018",
@@ -383,7 +453,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 分支概念\n\n## 概述\n分支概念是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握分支概念提高效率。",
+    "knowledgePoints": [
+      "gt-kp-020"
+    ]
   },
   {
     "id": "gt-lesson-019",
@@ -410,7 +484,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# git branch\n\n## 概述\ngit branch是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握git branch提高效率。",
+    "knowledgePoints": [
+      "gt-kp-021"
+    ]
   },
   {
     "id": "gt-lesson-020",
@@ -437,7 +515,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# git checkout\n\n## 概述\ngit checkout是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握git checkout提高效率。",
+    "knowledgePoints": [
+      "gt-kp-022"
+    ]
   },
   {
     "id": "gt-lesson-021",
@@ -464,7 +546,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# git switch\n\n## 概述\ngit switch是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握git switch提高效率。",
+    "knowledgePoints": [
+      "gt-kp-023"
+    ]
   },
   {
     "id": "gt-lesson-022",
@@ -491,7 +577,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 分支策略\n\n## 概述\n分支策略是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握分支策略提高效率。",
+    "knowledgePoints": [
+      "gt-kp-024"
+    ]
   },
   {
     "id": "gt-lesson-023",
@@ -518,7 +608,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 远程分支\n\n## 概述\n远程分支是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握远程分支提高效率。",
+    "knowledgePoints": [
+      "gt-kp-025"
+    ]
   },
   {
     "id": "gt-lesson-024",
@@ -540,7 +634,12 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# git merge\n\n## 概述\ngit merge是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握git merge提高效率。",
+    "knowledgePoints": [
+      "gt-kp-026",
+      "gt-kp-027"
+    ]
   },
   {
     "id": "gt-lesson-025",
@@ -561,7 +660,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# fast-forward合并\n\n## 概述\nfast-forward合并是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握fast-forward合并提高效率。",
+    "knowledgePoints": [
+      "gt-kp-028"
+    ]
   },
   {
     "id": "gt-lesson-026",
@@ -582,7 +685,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# three-way合并\n\n## 概述\nthree-way合并是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握three-way合并提高效率。",
+    "knowledgePoints": [
+      "gt-kp-029"
+    ]
   },
   {
     "id": "gt-lesson-027",
@@ -604,7 +711,12 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# git rebase\n\n## 概述\ngit rebase是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握git rebase提高效率。",
+    "knowledgePoints": [
+      "gt-kp-030",
+      "gt-kp-031"
+    ]
   },
   {
     "id": "gt-lesson-028",
@@ -625,7 +737,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 冲突产生原因\n\n## 概述\n冲突产生原因是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握冲突产生原因提高效率。",
+    "knowledgePoints": [
+      "gt-kp-032"
+    ]
   },
   {
     "id": "gt-lesson-029",
@@ -646,7 +762,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 冲突标记\n\n## 概述\n冲突标记是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握冲突标记提高效率。",
+    "knowledgePoints": [
+      "gt-kp-033"
+    ]
   },
   {
     "id": "gt-lesson-030",
@@ -668,7 +788,12 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 解决冲突\n\n## 概述\n解决冲突是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握解决冲突提高效率。",
+    "knowledgePoints": [
+      "gt-kp-034",
+      "gt-kp-035"
+    ]
   },
   {
     "id": "gt-lesson-031",
@@ -689,7 +814,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# merge工具\n\n## 概述\nmerge工具是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握merge工具提高效率。",
+    "knowledgePoints": [
+      "gt-kp-036"
+    ]
   },
   {
     "id": "gt-lesson-032",
@@ -710,7 +839,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# git reset --soft\n\n## 概述\ngit reset --soft是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握git reset --soft提高效率。",
+    "knowledgePoints": [
+      "gt-kp-037"
+    ]
   },
   {
     "id": "gt-lesson-033",
@@ -731,7 +864,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# git reset --mixed\n\n## 概述\ngit reset --mixed是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握git reset --mixed提高效率。",
+    "knowledgePoints": [
+      "gt-kp-038"
+    ]
   },
   {
     "id": "gt-lesson-034",
@@ -752,7 +889,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# git reset --hard\n\n## 概述\ngit reset --hard是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握git reset --hard提高效率。",
+    "knowledgePoints": [
+      "gt-kp-039"
+    ]
   },
   {
     "id": "gt-lesson-035",
@@ -773,7 +914,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# git revert\n\n## 概述\ngit revert是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握git revert提高效率。",
+    "knowledgePoints": [
+      "gt-kp-040"
+    ]
   },
   {
     "id": "gt-lesson-036",
@@ -795,7 +940,12 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# git reflog\n\n## 概述\ngit reflog是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握git reflog提高效率。",
+    "knowledgePoints": [
+      "gt-kp-041",
+      "gt-kp-042"
+    ]
   },
   {
     "id": "gt-lesson-037",
@@ -817,7 +967,12 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# git stash\n\n## 概述\ngit stash是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握git stash提高效率。",
+    "knowledgePoints": [
+      "gt-kp-043",
+      "gt-kp-044"
+    ]
   },
   {
     "id": "gt-lesson-038",
@@ -838,7 +993,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# git remote\n\n## 概述\ngit remote是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握git remote提高效率。",
+    "knowledgePoints": [
+      "gt-kp-045"
+    ]
   },
   {
     "id": "gt-lesson-039",
@@ -859,7 +1018,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# git clone\n\n## 概述\ngit clone是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握git clone提高效率。",
+    "knowledgePoints": [
+      "gt-kp-046"
+    ]
   },
   {
     "id": "gt-lesson-040",
@@ -880,7 +1043,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# git push\n\n## 概述\ngit push是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握git push提高效率。",
+    "knowledgePoints": [
+      "gt-kp-047"
+    ]
   },
   {
     "id": "gt-lesson-041",
@@ -901,7 +1068,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# git pull\n\n## 概述\ngit pull是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握git pull提高效率。",
+    "knowledgePoints": [
+      "gt-kp-048"
+    ]
   },
   {
     "id": "gt-lesson-042",
@@ -922,7 +1093,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# git fetch\n\n## 概述\ngit fetch是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握git fetch提高效率。",
+    "knowledgePoints": [
+      "gt-kp-049"
+    ]
   },
   {
     "id": "gt-lesson-043",
@@ -943,7 +1118,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 远程跟踪分支\n\n## 概述\n远程跟踪分支是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握远程跟踪分支提高效率。",
+    "knowledgePoints": [
+      "gt-kp-050"
+    ]
   },
   {
     "id": "gt-lesson-044",
@@ -964,7 +1143,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# origin/HEAD\n\n## 概述\norigin/HEAD是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握origin/HEAD提高效率。",
+    "knowledgePoints": [
+      "gt-kp-051"
+    ]
   },
   {
     "id": "gt-lesson-045",
@@ -985,7 +1168,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 创建仓库\n\n## 概述\n创建仓库是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握创建仓库提高效率。",
+    "knowledgePoints": [
+      "gt-kp-052"
+    ]
   },
   {
     "id": "gt-lesson-046",
@@ -1006,7 +1193,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Settings配置\n\n## 概述\nSettings配置是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握Settings配置提高效率。",
+    "knowledgePoints": [
+      "gt-kp-053"
+    ]
   },
   {
     "id": "gt-lesson-047",
@@ -1027,7 +1218,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 分支保护规则\n\n## 概述\n分支保护规则是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握分支保护规则提高效率。",
+    "knowledgePoints": [
+      "gt-kp-054"
+    ]
   },
   {
     "id": "gt-lesson-048",
@@ -1048,7 +1243,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Collaborator\n\n## 概述\nCollaborator是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握Collaborator提高效率。",
+    "knowledgePoints": [
+      "gt-kp-055"
+    ]
   },
   {
     "id": "gt-lesson-049",
@@ -1069,7 +1268,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# SSH Key配置\n\n## 概述\nSSH Key配置是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握SSH Key配置提高效率。",
+    "knowledgePoints": [
+      "gt-kp-056"
+    ]
   },
   {
     "id": "gt-lesson-050",
@@ -1090,7 +1293,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Token使用\n\n## 概述\nToken使用是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握Token使用提高效率。",
+    "knowledgePoints": [
+      "gt-kp-057"
+    ]
   },
   {
     "id": "gt-lesson-051",
@@ -1111,7 +1318,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Issue创建与管理\n\n## 概述\nIssue创建与管理是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握Issue创建与管理提高效率。",
+    "knowledgePoints": [
+      "gt-kp-058"
+    ]
   },
   {
     "id": "gt-lesson-052",
@@ -1132,7 +1343,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Issue模板\n\n## 概述\nIssue模板是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握Issue模板提高效率。",
+    "knowledgePoints": [
+      "gt-kp-059"
+    ]
   },
   {
     "id": "gt-lesson-053",
@@ -1153,7 +1368,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 标签与里程碑\n\n## 概述\n标签与里程碑是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握标签与里程碑提高效率。",
+    "knowledgePoints": [
+      "gt-kp-060"
+    ]
   },
   {
     "id": "gt-lesson-054",
@@ -1175,7 +1394,12 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Pull Request流程\n\n## 概述\nPull Request流程是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握Pull Request流程提高效率。",
+    "knowledgePoints": [
+      "gt-kp-061",
+      "gt-kp-062"
+    ]
   },
   {
     "id": "gt-lesson-055",
@@ -1196,7 +1420,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# PR模板\n\n## 概述\nPR模板是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握PR模板提高效率。",
+    "knowledgePoints": [
+      "gt-kp-063"
+    ]
   },
   {
     "id": "gt-lesson-056",
@@ -1218,7 +1446,12 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Code Review\n\n## 概述\nCode Review是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握Code Review提高效率。",
+    "knowledgePoints": [
+      "gt-kp-064",
+      "gt-kp-065"
+    ]
   },
   {
     "id": "gt-lesson-057",
@@ -1239,7 +1472,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 合并方式选择\n\n## 概述\n合并方式选择是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握合并方式选择提高效率。",
+    "knowledgePoints": [
+      "gt-kp-066"
+    ]
   },
   {
     "id": "gt-lesson-058",
@@ -1261,7 +1498,12 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Workflow基础\n\n## 概述\nWorkflow基础是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握Workflow基础提高效率。",
+    "knowledgePoints": [
+      "gt-kp-067",
+      "gt-kp-068"
+    ]
   },
   {
     "id": "gt-lesson-059",
@@ -1282,7 +1524,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Job与Step\n\n## 概述\nJob与Step是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握Job与Step提高效率。",
+    "knowledgePoints": [
+      "gt-kp-069"
+    ]
   },
   {
     "id": "gt-lesson-060",
@@ -1303,7 +1549,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 触发事件\n\n## 概述\n触发事件是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握触发事件提高效率。",
+    "knowledgePoints": [
+      "gt-kp-070"
+    ]
   },
   {
     "id": "gt-lesson-061",
@@ -1324,7 +1574,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 矩阵构建\n\n## 概述\n矩阵构建是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握矩阵构建提高效率。",
+    "knowledgePoints": [
+      "gt-kp-071"
+    ]
   },
   {
     "id": "gt-lesson-062",
@@ -1345,7 +1599,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 缓存依赖\n\n## 概述\n缓存依赖是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握缓存依赖提高效率。",
+    "knowledgePoints": [
+      "gt-kp-072"
+    ]
   },
   {
     "id": "gt-lesson-063",
@@ -1366,7 +1624,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# artifact上传\n\n## 概述\nartifact上传是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握artifact上传提高效率。",
+    "knowledgePoints": [
+      "gt-kp-073"
+    ]
   },
   {
     "id": "gt-lesson-064",
@@ -1387,7 +1649,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Secret与变量\n\n## 概述\nSecret与变量是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握Secret与变量提高效率。",
+    "knowledgePoints": [
+      "gt-kp-074"
+    ]
   },
   {
     "id": "gt-lesson-065",
@@ -1408,7 +1674,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 多环境部署\n\n## 概述\n多环境部署是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握多环境部署提高效率。",
+    "knowledgePoints": [
+      "gt-kp-075"
+    ]
   },
   {
     "id": "gt-lesson-066",
@@ -1429,7 +1699,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Pages配置\n\n## 概述\nPages配置是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握Pages配置提高效率。",
+    "knowledgePoints": [
+      "gt-kp-076"
+    ]
   },
   {
     "id": "gt-lesson-067",
@@ -1450,7 +1724,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Actions部署Pages\n\n## 概述\nActions部署Pages是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握Actions部署Pages提高效率。",
+    "knowledgePoints": [
+      "gt-kp-077"
+    ]
   },
   {
     "id": "gt-lesson-068",
@@ -1471,7 +1749,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 自定义域名\n\n## 概述\n自定义域名是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握自定义域名提高效率。",
+    "knowledgePoints": [
+      "gt-kp-078"
+    ]
   },
   {
     "id": "gt-lesson-069",
@@ -1492,7 +1774,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Jekyll/Hugo\n\n## 概述\nJekyll/Hugo是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握Jekyll/Hugo提高效率。",
+    "knowledgePoints": [
+      "gt-kp-079"
+    ]
   },
   {
     "id": "gt-lesson-070",
@@ -1519,7 +1805,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Gitflow工作流\n\n## 概述\nGitflow工作流是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握Gitflow工作流提高效率。",
+    "knowledgePoints": [
+      "gt-kp-080"
+    ]
   },
   {
     "id": "gt-lesson-071",
@@ -1546,7 +1836,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Conventional Commits\n\n## 概述\nConventional Commits是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握Conventional Commits提高效率。",
+    "knowledgePoints": [
+      "gt-kp-081"
+    ]
   },
   {
     "id": "gt-lesson-072",
@@ -1573,7 +1867,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# commitlint\n\n## 概述\ncommitlint是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握commitlint提高效率。",
+    "knowledgePoints": [
+      "gt-kp-082"
+    ]
   },
   {
     "id": "gt-lesson-073",
@@ -1600,7 +1898,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# CODEOWNERS\n\n## 概述\nCODEOWNERS是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握CODEOWNERS提高效率。",
+    "knowledgePoints": [
+      "gt-kp-083"
+    ]
   },
   {
     "id": "gt-lesson-074",
@@ -1621,7 +1923,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Fork工作流\n\n## 概述\nFork工作流是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握Fork工作流提高效率。",
+    "knowledgePoints": [
+      "gt-kp-084"
+    ]
   },
   {
     "id": "gt-lesson-075",
@@ -1642,7 +1948,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 贡献流程\n\n## 概述\n贡献流程是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握贡献流程提高效率。",
+    "knowledgePoints": [
+      "gt-kp-085"
+    ]
   },
   {
     "id": "gt-lesson-076",
@@ -1663,7 +1973,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 开源项目规范\n\n## 概述\n开源项目规范是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握开源项目规范提高效率。",
+    "knowledgePoints": [
+      "gt-kp-086"
+    ]
   },
   {
     "id": "gt-lesson-077",
@@ -1684,7 +1998,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 个人项目展示\n\n## 概述\n个人项目展示是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握个人项目展示提高效率。",
+    "knowledgePoints": [
+      "gt-kp-087"
+    ]
   },
   {
     "id": "gt-lesson-078",
@@ -1705,7 +2023,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 面试准备\n\n## 概述\n面试准备是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握面试准备提高效率。",
+    "knowledgePoints": [
+      "gt-kp-088"
+    ]
   },
   {
     "id": "gt-lesson-079",
@@ -1726,7 +2048,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 模拟测试\n\n## 概述\n模拟测试是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握模拟测试提高效率。",
+    "knowledgePoints": [
+      "gt-kp-089"
+    ]
   },
   {
     "id": "gt-lesson-080",
@@ -1747,7 +2073,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 考前冲刺\n\n## 概述\n考前冲刺是Git/GitHub的重要知识点。\n\n## 使用场景\n- 版本控制\n- 团队协作\n- 开源贡献\n\n## 注意事项\n- 理解概念原理\n- 多实践操作\n\n## 总结\n掌握考前冲刺提高效率。",
+    "knowledgePoints": [
+      "gt-kp-090"
+    ]
   },
   {
     "id": "gt-lesson-081",
@@ -1768,7 +2098,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课1\n\n补课1内容。",
+    "knowledgePoints": [
+      "gt-kp-0081"
+    ]
   },
   {
     "id": "gt-lesson-082",
@@ -1789,7 +2123,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课2\n\n补课2内容。",
+    "knowledgePoints": [
+      "gt-kp-0082"
+    ]
   },
   {
     "id": "gt-lesson-083",
@@ -1810,7 +2148,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课3\n\n补课3内容。",
+    "knowledgePoints": [
+      "gt-kp-0083"
+    ]
   },
   {
     "id": "gt-lesson-084",
@@ -1831,7 +2173,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课4\n\n补课4内容。",
+    "knowledgePoints": [
+      "gt-kp-0084"
+    ]
   },
   {
     "id": "gt-lesson-085",
@@ -1852,7 +2198,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课5\n\n补课5内容。",
+    "knowledgePoints": [
+      "gt-kp-0085"
+    ]
   },
   {
     "id": "gt-lesson-086",
@@ -1873,7 +2223,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课6\n\n补课6内容。",
+    "knowledgePoints": [
+      "gt-kp-0086"
+    ]
   },
   {
     "id": "gt-lesson-087",
@@ -1894,7 +2248,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课7\n\n补课7内容。",
+    "knowledgePoints": [
+      "gt-kp-0087"
+    ]
   },
   {
     "id": "gt-lesson-088",
@@ -1915,7 +2273,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课8\n\n补课8内容。",
+    "knowledgePoints": [
+      "gt-kp-0088"
+    ]
   },
   {
     "id": "gt-lesson-089",
@@ -1936,7 +2298,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课9\n\n补课9内容。",
+    "knowledgePoints": [
+      "gt-kp-0089"
+    ]
   },
   {
     "id": "gt-lesson-090",
@@ -1957,7 +2323,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课10\n\n补课10内容。",
+    "knowledgePoints": [
+      "gt-kp-0090"
+    ]
   },
   {
     "id": "gt-lesson-091",
@@ -1978,7 +2348,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课11\n\n补课11内容。",
+    "knowledgePoints": [
+      "gt-kp-0091"
+    ]
   },
   {
     "id": "gt-lesson-092",
@@ -1999,7 +2373,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课12\n\n补课12内容。",
+    "knowledgePoints": [
+      "gt-kp-0092"
+    ]
   },
   {
     "id": "gt-lesson-093",
@@ -2020,7 +2398,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课13\n\n补课13内容。",
+    "knowledgePoints": [
+      "gt-kp-0093"
+    ]
   },
   {
     "id": "gt-lesson-094",
@@ -2041,7 +2423,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课14\n\n补课14内容。",
+    "knowledgePoints": [
+      "gt-kp-0094"
+    ]
   },
   {
     "id": "gt-lesson-095",
@@ -2062,7 +2448,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课15\n\n补课15内容。",
+    "knowledgePoints": [
+      "gt-kp-0095"
+    ]
   },
   {
     "id": "gt-lesson-096",
@@ -2083,7 +2473,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课16\n\n补课16内容。",
+    "knowledgePoints": [
+      "gt-kp-0096"
+    ]
   },
   {
     "id": "gt-lesson-097",
@@ -2104,7 +2498,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课17\n\n补课17内容。",
+    "knowledgePoints": [
+      "gt-kp-0097"
+    ]
   },
   {
     "id": "gt-lesson-098",
@@ -2125,7 +2523,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课18\n\n补课18内容。",
+    "knowledgePoints": [
+      "gt-kp-0098"
+    ]
   },
   {
     "id": "gt-lesson-099",
@@ -2146,7 +2548,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课19\n\n补课19内容。",
+    "knowledgePoints": [
+      "gt-kp-0099"
+    ]
   },
   {
     "id": "gt-lesson-100",
@@ -2167,7 +2573,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课20\n\n补课20内容。",
+    "knowledgePoints": [
+      "gt-kp-0100"
+    ]
   },
   {
     "id": "gt-lesson-101",
@@ -2188,7 +2598,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课21\n\n补课21内容。",
+    "knowledgePoints": [
+      "gt-kp-0101"
+    ]
   },
   {
     "id": "gt-lesson-102",
@@ -2209,7 +2623,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课22\n\n补课22内容。",
+    "knowledgePoints": [
+      "gt-kp-0102"
+    ]
   },
   {
     "id": "gt-lesson-103",
@@ -2230,7 +2648,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课23\n\n补课23内容。",
+    "knowledgePoints": [
+      "gt-kp-0103"
+    ]
   },
   {
     "id": "gt-lesson-104",
@@ -2251,7 +2673,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课24\n\n补课24内容。",
+    "knowledgePoints": [
+      "gt-kp-0104"
+    ]
   },
   {
     "id": "gt-lesson-105",
@@ -2272,7 +2698,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课25\n\n补课25内容。",
+    "knowledgePoints": [
+      "gt-kp-0105"
+    ]
   },
   {
     "id": "gt-lesson-106",
@@ -2293,7 +2723,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课26\n\n补课26内容。",
+    "knowledgePoints": [
+      "gt-kp-0106"
+    ]
   },
   {
     "id": "gt-lesson-107",
@@ -2314,7 +2748,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课27\n\n补课27内容。",
+    "knowledgePoints": [
+      "gt-kp-0107"
+    ]
   },
   {
     "id": "gt-lesson-108",
@@ -2335,7 +2773,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课28\n\n补课28内容。",
+    "knowledgePoints": [
+      "gt-kp-0108"
+    ]
   },
   {
     "id": "gt-lesson-109",
@@ -2356,7 +2798,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课29\n\n补课29内容。",
+    "knowledgePoints": [
+      "gt-kp-0109"
+    ]
   },
   {
     "id": "gt-lesson-110",
@@ -2377,7 +2823,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课30\n\n补课30内容。",
+    "knowledgePoints": [
+      "gt-kp-0110"
+    ]
   },
   {
     "id": "gt-lesson-111",
@@ -2398,7 +2848,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课31\n\n补课31内容。",
+    "knowledgePoints": [
+      "gt-kp-0111"
+    ]
   },
   {
     "id": "gt-lesson-112",
@@ -2419,7 +2873,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课32\n\n补课32内容。",
+    "knowledgePoints": [
+      "gt-kp-0112"
+    ]
   },
   {
     "id": "gt-lesson-113",
@@ -2440,7 +2898,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课33\n\n补课33内容。",
+    "knowledgePoints": [
+      "gt-kp-0113"
+    ]
   },
   {
     "id": "gt-lesson-114",
@@ -2461,7 +2923,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课34\n\n补课34内容。",
+    "knowledgePoints": [
+      "gt-kp-0114"
+    ]
   },
   {
     "id": "gt-lesson-115",
@@ -2482,7 +2948,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课35\n\n补课35内容。",
+    "knowledgePoints": [
+      "gt-kp-0115"
+    ]
   },
   {
     "id": "gt-lesson-116",
@@ -2503,7 +2973,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课36\n\n补课36内容。",
+    "knowledgePoints": [
+      "gt-kp-0116"
+    ]
   },
   {
     "id": "gt-lesson-117",
@@ -2524,7 +2998,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课37\n\n补课37内容。",
+    "knowledgePoints": [
+      "gt-kp-0117"
+    ]
   },
   {
     "id": "gt-lesson-118",
@@ -2545,7 +3023,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课38\n\n补课38内容。",
+    "knowledgePoints": [
+      "gt-kp-0118"
+    ]
   },
   {
     "id": "gt-lesson-119",
@@ -2566,7 +3048,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课39\n\n补课39内容。",
+    "knowledgePoints": [
+      "gt-kp-0119"
+    ]
   },
   {
     "id": "gt-lesson-120",
@@ -2587,7 +3073,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课40\n\n补课40内容。",
+    "knowledgePoints": [
+      "gt-kp-0120"
+    ]
   },
   {
     "id": "gt-lesson-121",
@@ -2608,7 +3098,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课41\n\n补课41内容。",
+    "knowledgePoints": [
+      "gt-kp-0121"
+    ]
   },
   {
     "id": "gt-lesson-122",
@@ -2629,7 +3123,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课42\n\n补课42内容。",
+    "knowledgePoints": [
+      "gt-kp-0122"
+    ]
   },
   {
     "id": "gt-lesson-123",
@@ -2650,7 +3148,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课43\n\n补课43内容。",
+    "knowledgePoints": [
+      "gt-kp-0123"
+    ]
   },
   {
     "id": "gt-lesson-124",
@@ -2671,7 +3173,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课44\n\n补课44内容。",
+    "knowledgePoints": [
+      "gt-kp-0124"
+    ]
   },
   {
     "id": "gt-lesson-125",
@@ -2692,7 +3198,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课45\n\n补课45内容。",
+    "knowledgePoints": [
+      "gt-kp-0125"
+    ]
   },
   {
     "id": "gt-lesson-126",
@@ -2713,7 +3223,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课46\n\n补课46内容。",
+    "knowledgePoints": [
+      "gt-kp-0126"
+    ]
   },
   {
     "id": "gt-lesson-127",
@@ -2734,7 +3248,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课47\n\n补课47内容。",
+    "knowledgePoints": [
+      "gt-kp-0127"
+    ]
   },
   {
     "id": "gt-lesson-128",
@@ -2755,7 +3273,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课48\n\n补课48内容。",
+    "knowledgePoints": [
+      "gt-kp-0128"
+    ]
   },
   {
     "id": "gt-lesson-129",
@@ -2776,7 +3298,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课49\n\n补课49内容。",
+    "knowledgePoints": [
+      "gt-kp-0129"
+    ]
   },
   {
     "id": "gt-lesson-130",
@@ -2797,7 +3323,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课50\n\n补课50内容。",
+    "knowledgePoints": [
+      "gt-kp-0130"
+    ]
   },
   {
     "id": "gt-lesson-131",
@@ -2818,7 +3348,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课51\n\n补课51内容。",
+    "knowledgePoints": [
+      "gt-kp-0131"
+    ]
   },
   {
     "id": "gt-lesson-132",
@@ -2839,7 +3373,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课52\n\n补课52内容。",
+    "knowledgePoints": [
+      "gt-kp-0132"
+    ]
   },
   {
     "id": "gt-lesson-133",
@@ -2860,7 +3398,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课53\n\n补课53内容。",
+    "knowledgePoints": [
+      "gt-kp-0133"
+    ]
   },
   {
     "id": "gt-lesson-134",
@@ -2881,7 +3423,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课54\n\n补课54内容。",
+    "knowledgePoints": [
+      "gt-kp-0134"
+    ]
   },
   {
     "id": "gt-lesson-135",
@@ -2902,7 +3448,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课55\n\n补课55内容。",
+    "knowledgePoints": [
+      "gt-kp-0135"
+    ]
   },
   {
     "id": "gt-lesson-136",
@@ -2923,7 +3473,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课56\n\n补课56内容。",
+    "knowledgePoints": [
+      "gt-kp-0136"
+    ]
   },
   {
     "id": "gt-lesson-137",
@@ -2944,7 +3498,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课57\n\n补课57内容。",
+    "knowledgePoints": [
+      "gt-kp-0137"
+    ]
   },
   {
     "id": "gt-lesson-138",
@@ -2965,7 +3523,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课58\n\n补课58内容。",
+    "knowledgePoints": [
+      "gt-kp-0138"
+    ]
   },
   {
     "id": "gt-lesson-139",
@@ -2986,7 +3548,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课59\n\n补课59内容。",
+    "knowledgePoints": [
+      "gt-kp-0139"
+    ]
   },
   {
     "id": "gt-lesson-140",
@@ -3007,7 +3573,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课60\n\n补课60内容。",
+    "knowledgePoints": [
+      "gt-kp-0140"
+    ]
   },
   {
     "id": "gt-lesson-141",
@@ -3028,7 +3598,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课61\n\n补课61内容。",
+    "knowledgePoints": [
+      "gt-kp-0141"
+    ]
   },
   {
     "id": "gt-lesson-142",
@@ -3049,7 +3623,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课62\n\n补课62内容。",
+    "knowledgePoints": [
+      "gt-kp-0142"
+    ]
   },
   {
     "id": "gt-lesson-143",
@@ -3070,7 +3648,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课63\n\n补课63内容。",
+    "knowledgePoints": [
+      "gt-kp-0143"
+    ]
   },
   {
     "id": "gt-lesson-144",
@@ -3091,7 +3673,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课64\n\n补课64内容。",
+    "knowledgePoints": [
+      "gt-kp-0144"
+    ]
   },
   {
     "id": "gt-lesson-145",
@@ -3112,7 +3698,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课65\n\n补课65内容。",
+    "knowledgePoints": [
+      "gt-kp-0145"
+    ]
   },
   {
     "id": "gt-lesson-146",
@@ -3133,7 +3723,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课66\n\n补课66内容。",
+    "knowledgePoints": [
+      "gt-kp-0146"
+    ]
   },
   {
     "id": "gt-lesson-147",
@@ -3154,7 +3748,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课67\n\n补课67内容。",
+    "knowledgePoints": [
+      "gt-kp-0147"
+    ]
   },
   {
     "id": "gt-lesson-148",
@@ -3175,7 +3773,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课68\n\n补课68内容。",
+    "knowledgePoints": [
+      "gt-kp-0148"
+    ]
   },
   {
     "id": "gt-lesson-149",
@@ -3196,7 +3798,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课69\n\n补课69内容。",
+    "knowledgePoints": [
+      "gt-kp-0149"
+    ]
   },
   {
     "id": "gt-lesson-150",
@@ -3217,7 +3823,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课70\n\n补课70内容。",
+    "knowledgePoints": [
+      "gt-kp-0150"
+    ]
   },
   {
     "id": "gt-lesson-151",
@@ -3238,7 +3848,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课71\n\n补课71内容。",
+    "knowledgePoints": [
+      "gt-kp-0151"
+    ]
   },
   {
     "id": "gt-lesson-152",
@@ -3259,7 +3873,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课72\n\n补课72内容。",
+    "knowledgePoints": [
+      "gt-kp-0152"
+    ]
   },
   {
     "id": "gt-lesson-153",
@@ -3280,7 +3898,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课73\n\n补课73内容。",
+    "knowledgePoints": [
+      "gt-kp-0153"
+    ]
   },
   {
     "id": "gt-lesson-154",
@@ -3301,7 +3923,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课74\n\n补课74内容。",
+    "knowledgePoints": [
+      "gt-kp-0154"
+    ]
   },
   {
     "id": "gt-lesson-155",
@@ -3322,7 +3948,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课75\n\n补课75内容。",
+    "knowledgePoints": [
+      "gt-kp-0155"
+    ]
   },
   {
     "id": "gt-lesson-156",
@@ -3343,7 +3973,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课76\n\n补课76内容。",
+    "knowledgePoints": [
+      "gt-kp-0156"
+    ]
   },
   {
     "id": "gt-lesson-157",
@@ -3364,7 +3998,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课77\n\n补课77内容。",
+    "knowledgePoints": [
+      "gt-kp-0157"
+    ]
   },
   {
     "id": "gt-lesson-158",
@@ -3385,7 +4023,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课78\n\n补课78内容。",
+    "knowledgePoints": [
+      "gt-kp-0158"
+    ]
   },
   {
     "id": "gt-lesson-159",
@@ -3406,7 +4048,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课79\n\n补课79内容。",
+    "knowledgePoints": [
+      "gt-kp-0159"
+    ]
   },
   {
     "id": "gt-lesson-160",
@@ -3427,7 +4073,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课80\n\n补课80内容。",
+    "knowledgePoints": [
+      "gt-kp-0160"
+    ]
   },
   {
     "id": "gt-lesson-161",
@@ -3448,7 +4098,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课81\n\n补课81内容。",
+    "knowledgePoints": [
+      "gt-kp-0161"
+    ]
   },
   {
     "id": "gt-lesson-162",
@@ -3469,7 +4123,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课82\n\n补课82内容。",
+    "knowledgePoints": [
+      "gt-kp-0162"
+    ]
   },
   {
     "id": "gt-lesson-163",
@@ -3490,7 +4148,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课83\n\n补课83内容。",
+    "knowledgePoints": [
+      "gt-kp-0163"
+    ]
   },
   {
     "id": "gt-lesson-164",
@@ -3511,7 +4173,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课84\n\n补课84内容。",
+    "knowledgePoints": [
+      "gt-kp-0164"
+    ]
   },
   {
     "id": "gt-lesson-165",
@@ -3532,7 +4198,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课85\n\n补课85内容。",
+    "knowledgePoints": [
+      "gt-kp-0165"
+    ]
   },
   {
     "id": "gt-lesson-166",
@@ -3553,7 +4223,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课86\n\n补课86内容。",
+    "knowledgePoints": [
+      "gt-kp-0166"
+    ]
   },
   {
     "id": "gt-lesson-167",
@@ -3574,7 +4248,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课87\n\n补课87内容。",
+    "knowledgePoints": [
+      "gt-kp-0167"
+    ]
   },
   {
     "id": "gt-lesson-168",
@@ -3595,7 +4273,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课88\n\n补课88内容。",
+    "knowledgePoints": [
+      "gt-kp-0168"
+    ]
   },
   {
     "id": "gt-lesson-169",
@@ -3616,7 +4298,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课89\n\n补课89内容。",
+    "knowledgePoints": [
+      "gt-kp-0169"
+    ]
   },
   {
     "id": "gt-lesson-170",
@@ -3637,7 +4323,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课90\n\n补课90内容。",
+    "knowledgePoints": [
+      "gt-kp-0170"
+    ]
   },
   {
     "id": "gt-lesson-171",
@@ -3658,7 +4348,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课91\n\n补课91内容。",
+    "knowledgePoints": [
+      "gt-kp-0171"
+    ]
   },
   {
     "id": "gt-lesson-172",
@@ -3679,7 +4373,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课92\n\n补课92内容。",
+    "knowledgePoints": [
+      "gt-kp-0172"
+    ]
   },
   {
     "id": "gt-lesson-173",
@@ -3700,7 +4398,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课93\n\n补课93内容。",
+    "knowledgePoints": [
+      "gt-kp-0173"
+    ]
   },
   {
     "id": "gt-lesson-174",
@@ -3721,7 +4423,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课94\n\n补课94内容。",
+    "knowledgePoints": [
+      "gt-kp-0174"
+    ]
   },
   {
     "id": "gt-lesson-175",
@@ -3742,7 +4448,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课95\n\n补课95内容。",
+    "knowledgePoints": [
+      "gt-kp-0175"
+    ]
   },
   {
     "id": "gt-lesson-176",
@@ -3763,7 +4473,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课96\n\n补课96内容。",
+    "knowledgePoints": [
+      "gt-kp-0176"
+    ]
   },
   {
     "id": "gt-lesson-177",
@@ -3784,7 +4498,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课97\n\n补课97内容。",
+    "knowledgePoints": [
+      "gt-kp-0177"
+    ]
   },
   {
     "id": "gt-lesson-178",
@@ -3805,7 +4523,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课98\n\n补课98内容。",
+    "knowledgePoints": [
+      "gt-kp-0178"
+    ]
   },
   {
     "id": "gt-lesson-179",
@@ -3826,7 +4548,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课99\n\n补课99内容。",
+    "knowledgePoints": [
+      "gt-kp-0179"
+    ]
   },
   {
     "id": "gt-lesson-180",
@@ -3847,7 +4573,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课100\n\n补课100内容。",
+    "knowledgePoints": [
+      "gt-kp-0180"
+    ]
   },
   {
     "id": "gt-lesson-181",
@@ -3868,7 +4598,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课101\n\n补课101内容。",
+    "knowledgePoints": [
+      "gt-kp-0181"
+    ]
   },
   {
     "id": "gt-lesson-182",
@@ -3889,7 +4623,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课102\n\n补课102内容。",
+    "knowledgePoints": [
+      "gt-kp-0182"
+    ]
   },
   {
     "id": "gt-lesson-183",
@@ -3910,7 +4648,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课103\n\n补课103内容。",
+    "knowledgePoints": [
+      "gt-kp-0183"
+    ]
   },
   {
     "id": "gt-lesson-184",
@@ -3931,7 +4673,11 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课104\n\n补课104内容。",
+    "knowledgePoints": [
+      "gt-kp-0184"
+    ]
   },
   {
     "id": "gt-lesson-185",
@@ -3952,6 +4698,10 @@
       "Git"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补课105\n\n补课105内容。",
+    "knowledgePoints": [
+      "gt-kp-0185"
+    ]
   }
 ]

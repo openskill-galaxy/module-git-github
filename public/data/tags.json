@@ -5,7 +5,8 @@
     "category": "Git",
     "description": "Git标签：Git",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git"
   },
   {
     "id": "gt-tag-002",
@@ -13,7 +14,8 @@
     "category": "Git",
     "description": "Git标签：GitHub",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "github"
   },
   {
     "id": "gt-tag-003",
@@ -21,7 +23,8 @@
     "category": "Git",
     "description": "Git标签：版本控制",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "版本控制"
   },
   {
     "id": "gt-tag-004",
@@ -29,7 +32,8 @@
     "category": "Git",
     "description": "Git标签：VCS",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "vcs"
   },
   {
     "id": "gt-tag-005",
@@ -37,7 +41,8 @@
     "category": "Git",
     "description": "Git标签：仓库",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "仓库"
   },
   {
     "id": "gt-tag-006",
@@ -45,7 +50,8 @@
     "category": "Git",
     "description": "Git标签：repository",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "repository"
   },
   {
     "id": "gt-tag-007",
@@ -53,7 +59,8 @@
     "category": "Git",
     "description": "Git标签：工作区",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "工作区"
   },
   {
     "id": "gt-tag-008",
@@ -61,7 +68,8 @@
     "category": "Git",
     "description": "Git标签：working",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "working"
   },
   {
     "id": "gt-tag-009",
@@ -69,7 +77,8 @@
     "category": "Git",
     "description": "Git标签：directory",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "directory"
   },
   {
     "id": "gt-tag-010",
@@ -77,7 +86,8 @@
     "category": "Git",
     "description": "Git标签：暂存区",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "暂存区"
   },
   {
     "id": "gt-tag-011",
@@ -85,7 +95,8 @@
     "category": "Git",
     "description": "Git标签：staging",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "staging"
   },
   {
     "id": "gt-tag-012",
@@ -93,7 +104,8 @@
     "category": "Git",
     "description": "Git标签：index",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "index"
   },
   {
     "id": "gt-tag-013",
@@ -101,7 +113,8 @@
     "category": "Git",
     "description": "Git标签：本地仓库",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "本地仓库"
   },
   {
     "id": "gt-tag-014",
@@ -109,7 +122,8 @@
     "category": "Git",
     "description": "Git标签：local",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "local"
   },
   {
     "id": "gt-tag-015",
@@ -117,7 +131,8 @@
     "category": "Git",
     "description": "Git标签：远程仓库",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "远程仓库"
   },
   {
     "id": "gt-tag-016",
@@ -125,7 +140,8 @@
     "category": "Git",
     "description": "Git标签：remote",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "remote"
   },
   {
     "id": "gt-tag-017",
@@ -133,7 +149,8 @@
     "category": "Git",
     "description": "Git标签：init",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "init"
   },
   {
     "id": "gt-tag-018",
@@ -141,7 +158,8 @@
     "category": "Git",
     "description": "Git标签：clone",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "clone"
   },
   {
     "id": "gt-tag-019",
@@ -149,7 +167,8 @@
     "category": "Git",
     "description": "Git标签：status",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "status"
   },
   {
     "id": "gt-tag-020",
@@ -157,7 +176,8 @@
     "category": "Git",
     "description": "Git标签：add",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "add"
   },
   {
     "id": "gt-tag-021",
@@ -165,7 +185,8 @@
     "category": "Git",
     "description": "Git标签：commit",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "commit"
   },
   {
     "id": "gt-tag-022",
@@ -173,7 +194,8 @@
     "category": "Git",
     "description": "Git标签：log",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "log"
   },
   {
     "id": "gt-tag-023",
@@ -181,7 +203,8 @@
     "category": "Git",
     "description": "Git标签：diff",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "diff"
   },
   {
     "id": "gt-tag-024",
@@ -189,7 +212,8 @@
     "category": "Git",
     "description": "Git标签：branch",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "branch"
   },
   {
     "id": "gt-tag-025",
@@ -197,7 +221,8 @@
     "category": "Git",
     "description": "Git标签：checkout",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "checkout"
   },
   {
     "id": "gt-tag-026",
@@ -205,7 +230,8 @@
     "category": "Git",
     "description": "Git标签：switch",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "switch"
   },
   {
     "id": "gt-tag-027",
@@ -213,7 +239,8 @@
     "category": "Git",
     "description": "Git标签：merge",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "merge"
   },
   {
     "id": "gt-tag-028",
@@ -221,7 +248,8 @@
     "category": "Git",
     "description": "Git标签：rebase",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "rebase"
   },
   {
     "id": "gt-tag-029",
@@ -229,7 +257,8 @@
     "category": "Git",
     "description": "Git标签：stash",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "stash"
   },
   {
     "id": "gt-tag-030",
@@ -237,7 +266,8 @@
     "category": "Git",
     "description": "Git标签：reset",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "reset"
   },
   {
     "id": "gt-tag-031",
@@ -245,7 +275,8 @@
     "category": "Git",
     "description": "Git标签：revert",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "revert"
   },
   {
     "id": "gt-tag-032",
@@ -253,7 +284,8 @@
     "category": "Git",
     "description": "Git标签：push",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "push"
   },
   {
     "id": "gt-tag-033",
@@ -261,7 +293,8 @@
     "category": "Git",
     "description": "Git标签：pull",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "pull"
   },
   {
     "id": "gt-tag-034",
@@ -269,7 +302,8 @@
     "category": "Git",
     "description": "Git标签：fetch",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "fetch"
   },
   {
     "id": "gt-tag-035",
@@ -277,7 +311,8 @@
     "category": "Git",
     "description": "Git标签：origin",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "origin"
   },
   {
     "id": "gt-tag-036",
@@ -285,7 +320,8 @@
     "category": "Git",
     "description": "Git标签：upstream",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "upstream"
   },
   {
     "id": "gt-tag-037",
@@ -293,7 +329,8 @@
     "category": "Git",
     "description": "Git标签：main",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "main"
   },
   {
     "id": "gt-tag-038",
@@ -301,7 +338,8 @@
     "category": "Git",
     "description": "Git标签：master",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "master"
   },
   {
     "id": "gt-tag-039",
@@ -309,7 +347,8 @@
     "category": "Git",
     "description": "Git标签：HEAD",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "head"
   },
   {
     "id": "gt-tag-040",
@@ -317,7 +356,8 @@
     "category": "Git",
     "description": "Git标签：tag",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "tag"
   },
   {
     "id": "gt-tag-041",
@@ -325,7 +365,8 @@
     "category": "Git",
     "description": "Git标签：release",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "release"
   },
   {
     "id": "gt-tag-042",
@@ -333,7 +374,8 @@
     "category": "Git",
     "description": "Git标签：conflict",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "conflict"
   },
   {
     "id": "gt-tag-043",
@@ -341,7 +383,8 @@
     "category": "Git",
     "description": "Git标签：merge",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "merge"
   },
   {
     "id": "gt-tag-044",
@@ -349,7 +392,8 @@
     "category": "Git",
     "description": "Git标签：conflict",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "conflict"
   },
   {
     "id": "gt-tag-045",
@@ -357,7 +401,8 @@
     "category": "Git",
     "description": "Git标签：resolve",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "resolve"
   },
   {
     "id": "gt-tag-046",
@@ -365,7 +410,8 @@
     "category": "Git",
     "description": "Git标签：cherry-pick",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "cherry-pick"
   },
   {
     "id": "gt-tag-047",
@@ -373,7 +419,8 @@
     "category": "Git",
     "description": "Git标签：rebase",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "rebase"
   },
   {
     "id": "gt-tag-048",
@@ -381,7 +428,8 @@
     "category": "Git",
     "description": "Git标签：interactive",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "interactive"
   },
   {
     "id": "gt-tag-049",
@@ -389,7 +437,8 @@
     "category": "Git",
     "description": "Git标签：rebase",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "rebase"
   },
   {
     "id": "gt-tag-050",
@@ -397,7 +446,8 @@
     "category": "Git",
     "description": "Git标签：amend",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "amend"
   },
   {
     "id": "gt-tag-051",
@@ -405,7 +455,8 @@
     "category": "Git",
     "description": "Git标签：squash",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "squash"
   },
   {
     "id": "gt-tag-052",
@@ -413,7 +464,8 @@
     "category": "Git",
     "description": "Git标签：fixup",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "fixup"
   },
   {
     "id": "gt-tag-053",
@@ -421,7 +473,8 @@
     "category": "Git",
     "description": "Git标签：reflog",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "reflog"
   },
   {
     "id": "gt-tag-054",
@@ -429,7 +482,8 @@
     "category": "Git",
     "description": "Git标签：blame",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "blame"
   },
   {
     "id": "gt-tag-055",
@@ -437,7 +491,8 @@
     "category": "Git",
     "description": "Git标签：bisect",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "bisect"
   },
   {
     "id": "gt-tag-056",
@@ -445,7 +500,8 @@
     "category": "Git",
     "description": "Git标签：grep",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "grep"
   },
   {
     "id": "gt-tag-057",
@@ -453,7 +509,8 @@
     "category": "Git",
     "description": "Git标签：archive",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "archive"
   },
   {
     "id": "gt-tag-058",
@@ -461,7 +518,8 @@
     "category": "Git",
     "description": "Git标签：submodule",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "submodule"
   },
   {
     "id": "gt-tag-059",
@@ -469,7 +527,8 @@
     "category": "Git",
     "description": "Git标签：subtree",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "subtree"
   },
   {
     "id": "gt-tag-060",
@@ -477,7 +536,8 @@
     "category": "Git",
     "description": "Git标签：sparse",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "sparse"
   },
   {
     "id": "gt-tag-061",
@@ -485,7 +545,8 @@
     "category": "Git",
     "description": "Git标签：checkout",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "checkout"
   },
   {
     "id": "gt-tag-062",
@@ -493,7 +554,8 @@
     "category": "Git",
     "description": "Git标签：worktree",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "worktree"
   },
   {
     "id": "gt-tag-063",
@@ -501,7 +563,8 @@
     "category": "Git",
     "description": "Git标签：fetch",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "fetch"
   },
   {
     "id": "gt-tag-064",
@@ -509,7 +572,8 @@
     "category": "Git",
     "description": "Git标签：pull",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "pull"
   },
   {
     "id": "gt-tag-065",
@@ -517,7 +581,8 @@
     "category": "Git",
     "description": "Git标签：request",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "request"
   },
   {
     "id": "gt-tag-066",
@@ -525,7 +590,8 @@
     "category": "Git",
     "description": "Git标签：PR",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "pr"
   },
   {
     "id": "gt-tag-067",
@@ -533,7 +599,8 @@
     "category": "Git",
     "description": "Git标签：issue",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "issue"
   },
   {
     "id": "gt-tag-068",
@@ -541,7 +608,8 @@
     "category": "Git",
     "description": "Git标签：discussion",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "discussion"
   },
   {
     "id": "gt-tag-069",
@@ -549,7 +617,8 @@
     "category": "Git",
     "description": "Git标签：wiki",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "wiki"
   },
   {
     "id": "gt-tag-070",
@@ -557,7 +626,8 @@
     "category": "Git",
     "description": "Git标签：project",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "project"
   },
   {
     "id": "gt-tag-071",
@@ -565,7 +635,8 @@
     "category": "Git",
     "description": "Git标签：board",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "board"
   },
   {
     "id": "gt-tag-072",
@@ -573,7 +644,8 @@
     "category": "Git",
     "description": "Git标签：milestone",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "milestone"
   },
   {
     "id": "gt-tag-073",
@@ -581,7 +653,8 @@
     "category": "Git",
     "description": "Git标签：label",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "label"
   },
   {
     "id": "gt-tag-074",
@@ -589,7 +662,8 @@
     "category": "Git",
     "description": "Git标签：assignee",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "assignee"
   },
   {
     "id": "gt-tag-075",
@@ -597,7 +671,8 @@
     "category": "Git",
     "description": "Git标签：code",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "code"
   },
   {
     "id": "gt-tag-076",
@@ -605,7 +680,8 @@
     "category": "Git",
     "description": "Git标签：review",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "review"
   },
   {
     "id": "gt-tag-077",
@@ -613,7 +689,8 @@
     "category": "Git",
     "description": "Git标签：review",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "review"
   },
   {
     "id": "gt-tag-078",
@@ -621,7 +698,8 @@
     "category": "Git",
     "description": "Git标签：comment",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "comment"
   },
   {
     "id": "gt-tag-079",
@@ -629,7 +707,8 @@
     "category": "Git",
     "description": "Git标签：approve",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "approve"
   },
   {
     "id": "gt-tag-080",
@@ -637,7 +716,8 @@
     "category": "Git",
     "description": "Git标签：changes",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "changes"
   },
   {
     "id": "gt-tag-081",
@@ -645,7 +725,8 @@
     "category": "Git",
     "description": "Git标签：requested",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "requested"
   },
   {
     "id": "gt-tag-082",
@@ -653,7 +734,8 @@
     "category": "Git",
     "description": "Git标签：merge",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "merge"
   },
   {
     "id": "gt-tag-083",
@@ -661,7 +743,8 @@
     "category": "Git",
     "description": "Git标签：commit",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "commit"
   },
   {
     "id": "gt-tag-084",
@@ -669,7 +752,8 @@
     "category": "Git",
     "description": "Git标签：squash",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "squash"
   },
   {
     "id": "gt-tag-085",
@@ -677,7 +761,8 @@
     "category": "Git",
     "description": "Git标签：merge",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "merge"
   },
   {
     "id": "gt-tag-086",
@@ -685,7 +770,8 @@
     "category": "Git",
     "description": "Git标签：rebase",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "rebase"
   },
   {
     "id": "gt-tag-087",
@@ -693,7 +779,8 @@
     "category": "Git",
     "description": "Git标签：merge",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "merge"
   },
   {
     "id": "gt-tag-088",
@@ -701,7 +788,8 @@
     "category": "Git",
     "description": "Git标签：fast-forward",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "fast-forward"
   },
   {
     "id": "gt-tag-089",
@@ -709,7 +797,8 @@
     "category": "Git",
     "description": "Git标签：merge",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "merge"
   },
   {
     "id": "gt-tag-090",
@@ -717,7 +806,8 @@
     "category": "Git",
     "description": "Git标签：three-way",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "three-way"
   },
   {
     "id": "gt-tag-091",
@@ -725,7 +815,8 @@
     "category": "Git",
     "description": "Git标签：merge",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "merge"
   },
   {
     "id": "gt-tag-092",
@@ -733,7 +824,8 @@
     "category": "Git",
     "description": "Git标签：octopus",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "octopus"
   },
   {
     "id": "gt-tag-093",
@@ -741,7 +833,8 @@
     "category": "Git",
     "description": "Git标签：merge",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "merge"
   },
   {
     "id": "gt-tag-094",
@@ -749,7 +842,8 @@
     "category": "Git",
     "description": "Git标签：strategy",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "strategy"
   },
   {
     "id": "gt-tag-095",
@@ -757,7 +851,8 @@
     "category": "Git",
     "description": "Git标签：recursive",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "recursive"
   },
   {
     "id": "gt-tag-096",
@@ -765,7 +860,8 @@
     "category": "Git",
     "description": "Git标签：resolve",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "resolve"
   },
   {
     "id": "gt-tag-097",
@@ -773,7 +869,8 @@
     "category": "Git",
     "description": "Git标签：ort",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "ort"
   },
   {
     "id": "gt-tag-098",
@@ -781,7 +878,8 @@
     "category": "Git",
     "description": "Git标签：conflict",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "conflict"
   },
   {
     "id": "gt-tag-099",
@@ -789,7 +887,8 @@
     "category": "Git",
     "description": "Git标签：markers",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "markers"
   },
   {
     "id": "gt-tag-100",
@@ -797,7 +896,8 @@
     "category": "Git",
     "description": "Git标签：ours",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "ours"
   },
   {
     "id": "gt-tag-101",
@@ -805,7 +905,8 @@
     "category": "Git",
     "description": "Git标签：theirs",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "theirs"
   },
   {
     "id": "gt-tag-102",
@@ -813,7 +914,8 @@
     "category": "Git",
     "description": "Git标签：base",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "base"
   },
   {
     "id": "gt-tag-103",
@@ -821,7 +923,8 @@
     "category": "Git",
     "description": "Git标签：merge",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "merge"
   },
   {
     "id": "gt-tag-104",
@@ -829,7 +932,8 @@
     "category": "Git",
     "description": "Git标签：tool",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "tool"
   },
   {
     "id": "gt-tag-105",
@@ -837,7 +941,8 @@
     "category": "Git",
     "description": "Git标签：diff",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "diff"
   },
   {
     "id": "gt-tag-106",
@@ -845,7 +950,8 @@
     "category": "Git",
     "description": "Git标签：tool",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "tool"
   },
   {
     "id": "gt-tag-107",
@@ -853,7 +959,8 @@
     "category": "Git",
     "description": "Git标签：action",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "action"
   },
   {
     "id": "gt-tag-108",
@@ -861,7 +968,8 @@
     "category": "Git",
     "description": "Git标签：workflow",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "workflow"
   },
   {
     "id": "gt-tag-109",
@@ -869,7 +977,8 @@
     "category": "Git",
     "description": "Git标签：job",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "job"
   },
   {
     "id": "gt-tag-110",
@@ -877,7 +986,8 @@
     "category": "Git",
     "description": "Git标签：step",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "step"
   },
   {
     "id": "gt-tag-111",
@@ -885,7 +995,8 @@
     "category": "Git",
     "description": "Git标签：runner",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "runner"
   },
   {
     "id": "gt-tag-112",
@@ -893,7 +1004,8 @@
     "category": "Git",
     "description": "Git标签：event",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "event"
   },
   {
     "id": "gt-tag-113",
@@ -901,7 +1013,8 @@
     "category": "Git",
     "description": "Git标签：trigger",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "trigger"
   },
   {
     "id": "gt-tag-114",
@@ -909,7 +1022,8 @@
     "category": "Git",
     "description": "Git标签：on",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "on"
   },
   {
     "id": "gt-tag-115",
@@ -917,7 +1031,8 @@
     "category": "Git",
     "description": "Git标签：push",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "push"
   },
   {
     "id": "gt-tag-116",
@@ -925,7 +1040,8 @@
     "category": "Git",
     "description": "Git标签：pull_request",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "pull_request"
   },
   {
     "id": "gt-tag-117",
@@ -933,7 +1049,8 @@
     "category": "Git",
     "description": "Git标签：schedule",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "schedule"
   },
   {
     "id": "gt-tag-118",
@@ -941,7 +1058,8 @@
     "category": "Git",
     "description": "Git标签：workflow_dispatch",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "workflow_dispatch"
   },
   {
     "id": "gt-tag-119",
@@ -949,7 +1067,8 @@
     "category": "Git",
     "description": "Git标签：workflow_run",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "workflow_run"
   },
   {
     "id": "gt-tag-120",
@@ -957,7 +1076,8 @@
     "category": "Git",
     "description": "Git标签：repository_dispatch",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "repository_dispatch"
   },
   {
     "id": "gt-tag-121",
@@ -965,7 +1085,8 @@
     "category": "Git",
     "description": "Git标签：secret",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "secret"
   },
   {
     "id": "gt-tag-122",
@@ -973,7 +1094,8 @@
     "category": "Git",
     "description": "Git标签：variable",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "variable"
   },
   {
     "id": "gt-tag-123",
@@ -981,7 +1103,8 @@
     "category": "Git",
     "description": "Git标签：environment",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "environment"
   },
   {
     "id": "gt-tag-124",
@@ -989,7 +1112,8 @@
     "category": "Git",
     "description": "Git标签：deployment",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "deployment"
   },
   {
     "id": "gt-tag-125",
@@ -997,7 +1121,8 @@
     "category": "Git",
     "description": "Git标签：environment",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "environment"
   },
   {
     "id": "gt-tag-126",
@@ -1005,7 +1130,8 @@
     "category": "Git",
     "description": "Git标签：protection",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "protection"
   },
   {
     "id": "gt-tag-127",
@@ -1013,7 +1139,8 @@
     "category": "Git",
     "description": "Git标签：branch",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "branch"
   },
   {
     "id": "gt-tag-128",
@@ -1021,7 +1148,8 @@
     "category": "Git",
     "description": "Git标签：protection",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "protection"
   },
   {
     "id": "gt-tag-129",
@@ -1029,7 +1157,8 @@
     "category": "Git",
     "description": "Git标签：rule",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "rule"
   },
   {
     "id": "gt-tag-130",
@@ -1037,7 +1166,8 @@
     "category": "Git",
     "description": "Git标签：required",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "required"
   },
   {
     "id": "gt-tag-131",
@@ -1045,7 +1175,8 @@
     "category": "Git",
     "description": "Git标签：status",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "status"
   },
   {
     "id": "gt-tag-132",
@@ -1053,7 +1184,8 @@
     "category": "Git",
     "description": "Git标签：check",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "check"
   },
   {
     "id": "gt-tag-133",
@@ -1061,7 +1193,8 @@
     "category": "Git",
     "description": "Git标签：required",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "required"
   },
   {
     "id": "gt-tag-134",
@@ -1069,7 +1202,8 @@
     "category": "Git",
     "description": "Git标签：review",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "review"
   },
   {
     "id": "gt-tag-135",
@@ -1077,7 +1211,8 @@
     "category": "Git",
     "description": "Git标签：code",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "code"
   },
   {
     "id": "gt-tag-136",
@@ -1085,7 +1220,8 @@
     "category": "Git",
     "description": "Git标签：owner",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "owner"
   },
   {
     "id": "gt-tag-137",
@@ -1093,7 +1229,8 @@
     "category": "Git",
     "description": "Git标签：draft",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "draft"
   },
   {
     "id": "gt-tag-138",
@@ -1101,7 +1238,8 @@
     "category": "Git",
     "description": "Git标签：PR",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "pr"
   },
   {
     "id": "gt-tag-139",
@@ -1109,7 +1247,8 @@
     "category": "Git",
     "description": "Git标签：template",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "template"
   },
   {
     "id": "gt-tag-140",
@@ -1117,7 +1256,8 @@
     "category": "Git",
     "description": "Git标签：contribution",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "contribution"
   },
   {
     "id": "gt-tag-141",
@@ -1125,7 +1265,8 @@
     "category": "Git",
     "description": "Git标签：guide",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "guide"
   },
   {
     "id": "gt-tag-142",
@@ -1133,7 +1274,8 @@
     "category": "Git",
     "description": "Git标签：readme",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "readme"
   },
   {
     "id": "gt-tag-143",
@@ -1141,7 +1283,8 @@
     "category": "Git",
     "description": "Git标签：license",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "license"
   },
   {
     "id": "gt-tag-144",
@@ -1149,7 +1292,8 @@
     "category": "Git",
     "description": "Git标签：contributing",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "contributing"
   },
   {
     "id": "gt-tag-145",
@@ -1157,7 +1301,8 @@
     "category": "Git",
     "description": "Git标签：code",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "code"
   },
   {
     "id": "gt-tag-146",
@@ -1165,7 +1310,8 @@
     "category": "Git",
     "description": "Git标签：of",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "of"
   },
   {
     "id": "gt-tag-147",
@@ -1173,7 +1319,8 @@
     "category": "Git",
     "description": "Git标签：conduct",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "conduct"
   },
   {
     "id": "gt-tag-148",
@@ -1181,7 +1328,8 @@
     "category": "Git",
     "description": "Git标签：security",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "security"
   },
   {
     "id": "gt-tag-149",
@@ -1189,7 +1337,8 @@
     "category": "Git",
     "description": "Git标签：policy",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "policy"
   },
   {
     "id": "gt-tag-150",
@@ -1197,7 +1346,8 @@
     "category": "Git",
     "description": "Git标签：support",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "support"
   },
   {
     "id": "gt-tag-151",
@@ -1205,7 +1355,8 @@
     "category": "Git",
     "description": "Git标签：issue",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "issue"
   },
   {
     "id": "gt-tag-152",
@@ -1213,7 +1364,8 @@
     "category": "Git",
     "description": "Git标签：template",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "template"
   },
   {
     "id": "gt-tag-153",
@@ -1221,7 +1373,8 @@
     "category": "Git",
     "description": "Git标签：discussion",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "discussion"
   },
   {
     "id": "gt-tag-154",
@@ -1229,7 +1382,8 @@
     "category": "Git",
     "description": "Git标签：category",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "category"
   },
   {
     "id": "gt-tag-155",
@@ -1237,7 +1391,8 @@
     "category": "Git",
     "description": "Git标签：organization",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "organization"
   },
   {
     "id": "gt-tag-156",
@@ -1245,7 +1400,8 @@
     "category": "Git",
     "description": "Git标签：team",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "team"
   },
   {
     "id": "gt-tag-157",
@@ -1253,7 +1409,8 @@
     "category": "Git",
     "description": "Git标签：role",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "role"
   },
   {
     "id": "gt-tag-158",
@@ -1261,7 +1418,8 @@
     "category": "Git",
     "description": "Git标签：permission",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "permission"
   },
   {
     "id": "gt-tag-159",
@@ -1269,7 +1427,8 @@
     "category": "Git",
     "description": "Git标签：collaborator",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "collaborator"
   },
   {
     "id": "gt-tag-160",
@@ -1277,7 +1436,8 @@
     "category": "Git",
     "description": "Git标签：contributor",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "contributor"
   },
   {
     "id": "gt-tag-161",
@@ -1285,7 +1445,8 @@
     "category": "Git",
     "description": "Git标签：fork",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "fork"
   },
   {
     "id": "gt-tag-162",
@@ -1293,7 +1454,8 @@
     "category": "Git",
     "description": "Git标签：star",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "star"
   },
   {
     "id": "gt-tag-163",
@@ -1301,7 +1463,8 @@
     "category": "Git",
     "description": "Git标签：watch",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "watch"
   },
   {
     "id": "gt-tag-164",
@@ -1309,7 +1472,8 @@
     "category": "Git",
     "description": "Git标签：notification",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "notification"
   },
   {
     "id": "gt-tag-165",
@@ -1317,7 +1481,8 @@
     "category": "Git",
     "description": "Git标签：gist",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "gist"
   },
   {
     "id": "gt-tag-166",
@@ -1325,7 +1490,8 @@
     "category": "Git",
     "description": "Git标签：pages",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "pages"
   },
   {
     "id": "gt-tag-167",
@@ -1333,7 +1499,8 @@
     "category": "Git",
     "description": "Git标签：deploy",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "deploy"
   },
   {
     "id": "gt-tag-168",
@@ -1341,7 +1508,8 @@
     "category": "Git",
     "description": "Git标签：deploy",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "deploy"
   },
   {
     "id": "gt-tag-169",
@@ -1349,7 +1517,8 @@
     "category": "Git",
     "description": "Git标签：static",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "static"
   },
   {
     "id": "gt-tag-170",
@@ -1357,7 +1526,8 @@
     "category": "Git",
     "description": "Git标签：site",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "site"
   },
   {
     "id": "gt-tag-171",
@@ -1365,7 +1535,8 @@
     "category": "Git",
     "description": "Git标签：jekyll",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "jekyll"
   },
   {
     "id": "gt-tag-172",
@@ -1373,7 +1544,8 @@
     "category": "Git",
     "description": "Git标签：hugo",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "hugo"
   },
   {
     "id": "gt-tag-173",
@@ -1381,7 +1553,8 @@
     "category": "Git",
     "description": "Git标签：nextjs",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "nextjs"
   },
   {
     "id": "gt-tag-174",
@@ -1389,7 +1562,8 @@
     "category": "Git",
     "description": "Git标签：CI",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "ci"
   },
   {
     "id": "gt-tag-175",
@@ -1397,7 +1571,8 @@
     "category": "Git",
     "description": "Git标签：continuous",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "continuous"
   },
   {
     "id": "gt-tag-176",
@@ -1405,7 +1580,8 @@
     "category": "Git",
     "description": "Git标签：integration",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "integration"
   },
   {
     "id": "gt-tag-177",
@@ -1413,7 +1589,8 @@
     "category": "Git",
     "description": "Git标签：CD",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "cd"
   },
   {
     "id": "gt-tag-178",
@@ -1421,7 +1598,8 @@
     "category": "Git",
     "description": "Git标签：continuous",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "continuous"
   },
   {
     "id": "gt-tag-179",
@@ -1429,7 +1607,8 @@
     "category": "Git",
     "description": "Git标签：deployment",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "deployment"
   },
   {
     "id": "gt-tag-180",
@@ -1437,7 +1616,8 @@
     "category": "Git",
     "description": "Git标签：marketplace",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "marketplace"
   },
   {
     "id": "gt-tag-181",
@@ -1445,7 +1625,8 @@
     "category": "Git",
     "description": "Git标签：action",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "action"
   },
   {
     "id": "gt-tag-182",
@@ -1453,7 +1634,8 @@
     "category": "Git",
     "description": "Git标签：reusable",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "reusable"
   },
   {
     "id": "gt-tag-183",
@@ -1461,7 +1643,8 @@
     "category": "Git",
     "description": "Git标签：workflow",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "workflow"
   },
   {
     "id": "gt-tag-184",
@@ -1469,7 +1652,8 @@
     "category": "Git",
     "description": "Git标签：matrix",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "matrix"
   },
   {
     "id": "gt-tag-185",
@@ -1477,7 +1661,8 @@
     "category": "Git",
     "description": "Git标签：strategy",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "strategy"
   },
   {
     "id": "gt-tag-186",
@@ -1485,7 +1670,8 @@
     "category": "Git",
     "description": "Git标签：strategy",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "strategy"
   },
   {
     "id": "gt-tag-187",
@@ -1493,7 +1679,8 @@
     "category": "Git",
     "description": "Git标签：matrix",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "matrix"
   },
   {
     "id": "gt-tag-188",
@@ -1501,7 +1688,8 @@
     "category": "Git",
     "description": "Git标签：include",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "include"
   },
   {
     "id": "gt-tag-189",
@@ -1509,7 +1697,8 @@
     "category": "Git",
     "description": "Git标签：exclude",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "exclude"
   },
   {
     "id": "gt-tag-190",
@@ -1517,7 +1706,8 @@
     "category": "Git",
     "description": "Git标签：fail-fast",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "fail-fast"
   },
   {
     "id": "gt-tag-191",
@@ -1525,7 +1715,8 @@
     "category": "Git",
     "description": "Git标签：concurrency",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "concurrency"
   },
   {
     "id": "gt-tag-192",
@@ -1533,7 +1724,8 @@
     "category": "Git",
     "description": "Git标签：timeout",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "timeout"
   },
   {
     "id": "gt-tag-193",
@@ -1541,7 +1733,8 @@
     "category": "Git",
     "description": "Git标签：cancellation",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "cancellation"
   },
   {
     "id": "gt-tag-194",
@@ -1549,7 +1742,8 @@
     "category": "Git",
     "description": "Git标签：docker",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "docker"
   },
   {
     "id": "gt-tag-195",
@@ -1557,7 +1751,8 @@
     "category": "Git",
     "description": "Git标签：service",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "service"
   },
   {
     "id": "gt-tag-196",
@@ -1565,7 +1760,8 @@
     "category": "Git",
     "description": "Git标签：container",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "container"
   },
   {
     "id": "gt-tag-197",
@@ -1573,7 +1769,8 @@
     "category": "Git",
     "description": "Git标签：service",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "service"
   },
   {
     "id": "gt-tag-198",
@@ -1581,7 +1778,8 @@
     "category": "Git",
     "description": "Git标签：container",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "container"
   },
   {
     "id": "gt-tag-199",
@@ -1589,7 +1787,8 @@
     "category": "Git",
     "description": "Git标签：port",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "port"
   },
   {
     "id": "gt-tag-200",
@@ -1597,7 +1796,8 @@
     "category": "Git",
     "description": "Git标签：volume",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "volume"
   },
   {
     "id": "gt-tag-201",
@@ -1605,7 +1805,8 @@
     "category": "Git",
     "description": "Git标签：environment",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "environment"
   },
   {
     "id": "gt-tag-202",
@@ -1613,7 +1814,8 @@
     "category": "Git",
     "description": "Git标签：variable",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "variable"
   },
   {
     "id": "gt-tag-203",
@@ -1621,7 +1823,8 @@
     "category": "Git",
     "description": "Git标签：cache",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "cache"
   },
   {
     "id": "gt-tag-204",
@@ -1629,7 +1832,8 @@
     "category": "Git",
     "description": "Git标签：artifact",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "artifact"
   },
   {
     "id": "gt-tag-205",
@@ -1637,7 +1841,8 @@
     "category": "Git",
     "description": "Git标签：upload",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "upload"
   },
   {
     "id": "gt-tag-206",
@@ -1645,7 +1850,8 @@
     "category": "Git",
     "description": "Git标签：download",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "download"
   },
   {
     "id": "gt-tag-207",
@@ -1653,7 +1859,8 @@
     "category": "Git",
     "description": "Git标签：release",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "release"
   },
   {
     "id": "gt-tag-208",
@@ -1661,7 +1868,8 @@
     "category": "Git",
     "description": "Git标签：semantic",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "semantic"
   },
   {
     "id": "gt-tag-209",
@@ -1669,7 +1877,8 @@
     "category": "Git",
     "description": "Git标签：versioning",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "versioning"
   },
   {
     "id": "gt-tag-210",
@@ -1677,7 +1886,8 @@
     "category": "Git",
     "description": "Git标签：changelog",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "changelog"
   },
   {
     "id": "gt-tag-211",
@@ -1685,7 +1895,8 @@
     "category": "Git",
     "description": "Git标签：conventional",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "conventional"
   },
   {
     "id": "gt-tag-212",
@@ -1693,7 +1904,8 @@
     "category": "Git",
     "description": "Git标签：commit",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "commit"
   },
   {
     "id": "gt-tag-213",
@@ -1701,7 +1913,8 @@
     "category": "Git",
     "description": "Git标签：commitlint",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "commitlint"
   },
   {
     "id": "gt-tag-214",
@@ -1709,7 +1922,8 @@
     "category": "Git",
     "description": "Git标签：husky",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "husky"
   },
   {
     "id": "gt-tag-215",
@@ -1717,7 +1931,8 @@
     "category": "Git",
     "description": "Git标签：lint-staged",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "lint-staged"
   },
   {
     "id": "gt-tag-216",
@@ -1725,7 +1940,8 @@
     "category": "Git",
     "description": "Git标签：prettier",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "prettier"
   },
   {
     "id": "gt-tag-217",
@@ -1733,7 +1949,8 @@
     "category": "Git",
     "description": "Git标签：eslint",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "eslint"
   },
   {
     "id": "gt-tag-218",
@@ -1741,7 +1958,8 @@
     "category": "Git",
     "description": "Git标签：gitignore",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "gitignore"
   },
   {
     "id": "gt-tag-219",
@@ -1749,7 +1967,8 @@
     "category": "Git",
     "description": "Git标签：gitattributes",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "gitattributes"
   },
   {
     "id": "gt-tag-220",
@@ -1757,7 +1976,8 @@
     "category": "Git",
     "description": "Git标签：gitconfig",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "gitconfig"
   },
   {
     "id": "gt-tag-221",
@@ -1765,7 +1985,8 @@
     "category": "Git",
     "description": "Git标签：gitkeep",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "gitkeep"
   },
   {
     "id": "gt-tag-222",
@@ -1773,7 +1994,8 @@
     "category": "Git",
     "description": "Git标签：README",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "readme"
   },
   {
     "id": "gt-tag-223",
@@ -1781,7 +2003,8 @@
     "category": "Git",
     "description": "Git标签：LICENSE",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "license"
   },
   {
     "id": "gt-tag-224",
@@ -1789,7 +2012,8 @@
     "category": "Git",
     "description": "Git标签：CONTRIBUTING",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "contributing"
   },
   {
     "id": "gt-tag-225",
@@ -1797,7 +2021,8 @@
     "category": "Git",
     "description": "Git标签：CHANGELOG",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "changelog"
   },
   {
     "id": "gt-tag-226",
@@ -1805,7 +2030,8 @@
     "category": "Git",
     "description": "Git标签：SECURITY",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "security"
   },
   {
     "id": "gt-tag-227",
@@ -1813,7 +2039,8 @@
     "category": "Git",
     "description": "Git标签：SUPPORT",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "support"
   },
   {
     "id": "gt-tag-228",
@@ -1821,7 +2048,8 @@
     "category": "Git",
     "description": "Git标签：CODE_OF_CONDUCT",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "code_of_conduct"
   },
   {
     "id": "gt-tag-229",
@@ -1829,7 +2057,8 @@
     "category": "Git",
     "description": "Git标签：PULL_REQUEST_TEMPLATE",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "pull_request_template"
   },
   {
     "id": "gt-tag-230",
@@ -1837,7 +2066,8 @@
     "category": "Git",
     "description": "Git标签：ISSUE_TEMPLATE",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "issue_template"
   },
   {
     "id": "gt-tag-231",
@@ -1845,7 +2075,8 @@
     "category": "Git",
     "description": "Git标签：FUNDING",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "funding"
   },
   {
     "id": "gt-tag-232",
@@ -1853,7 +2084,8 @@
     "category": "Git",
     "description": "Git标签：dependabot",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "dependabot"
   },
   {
     "id": "gt-tag-233",
@@ -1861,7 +2093,8 @@
     "category": "Git",
     "description": "Git标签：renovate",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "renovate"
   },
   {
     "id": "gt-tag-234",
@@ -1869,7 +2102,8 @@
     "category": "Git",
     "description": "Git标签：bot",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "bot"
   },
   {
     "id": "gt-tag-235",
@@ -1877,7 +2111,8 @@
     "category": "Git",
     "description": "Git标签：automation",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "automation"
   },
   {
     "id": "gt-tag-236",
@@ -1885,7 +2120,8 @@
     "category": "Git",
     "description": "Git标签：webhook",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "webhook"
   },
   {
     "id": "gt-tag-237",
@@ -1893,7 +2129,8 @@
     "category": "Git",
     "description": "Git标签：API",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "api"
   },
   {
     "id": "gt-tag-238",
@@ -1901,7 +2138,8 @@
     "category": "Git",
     "description": "Git标签：REST",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "rest"
   },
   {
     "id": "gt-tag-239",
@@ -1909,7 +2147,8 @@
     "category": "Git",
     "description": "Git标签：GraphQL",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "graphql"
   },
   {
     "id": "gt-tag-240",
@@ -1917,7 +2156,8 @@
     "category": "Git",
     "description": "Git标签：octokit",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "octokit"
   },
   {
     "id": "gt-tag-241",
@@ -1925,7 +2165,8 @@
     "category": "Git",
     "description": "Git标签：gh",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "gh"
   },
   {
     "id": "gt-tag-242",
@@ -1933,7 +2174,8 @@
     "category": "Git",
     "description": "Git标签：CLI",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "cli"
   },
   {
     "id": "gt-tag-243",
@@ -1941,7 +2183,8 @@
     "category": "Git",
     "description": "Git标签：token",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "token"
   },
   {
     "id": "gt-tag-244",
@@ -1949,7 +2192,8 @@
     "category": "Git",
     "description": "Git标签：SSH",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "ssh"
   },
   {
     "id": "gt-tag-245",
@@ -1957,7 +2201,8 @@
     "category": "Git",
     "description": "Git标签：key",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "key"
   },
   {
     "id": "gt-tag-246",
@@ -1965,7 +2210,8 @@
     "category": "Git",
     "description": "Git标签：deploy",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "deploy"
   },
   {
     "id": "gt-tag-247",
@@ -1973,7 +2219,8 @@
     "category": "Git",
     "description": "Git标签：key",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "key"
   },
   {
     "id": "gt-tag-248",
@@ -1981,7 +2228,8 @@
     "category": "Git",
     "description": "Git标签：personal",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "personal"
   },
   {
     "id": "gt-tag-249",
@@ -1989,7 +2237,8 @@
     "category": "Git",
     "description": "Git标签：access",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "access"
   },
   {
     "id": "gt-tag-250",
@@ -1997,7 +2246,8 @@
     "category": "Git",
     "description": "Git标签：token",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "token"
   },
   {
     "id": "gt-tag-251",
@@ -2005,7 +2255,8 @@
     "category": "Git",
     "description": "Git标签：fine-grained",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "fine-grained"
   },
   {
     "id": "gt-tag-252",
@@ -2013,7 +2264,8 @@
     "category": "Git",
     "description": "Git标签：token",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "token"
   },
   {
     "id": "gt-tag-253",
@@ -2021,7 +2273,8 @@
     "category": "Git",
     "description": "Git标签：OAuth",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "oauth"
   },
   {
     "id": "gt-tag-254",
@@ -2029,7 +2282,8 @@
     "category": "Git",
     "description": "Git标签：app",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "app"
   },
   {
     "id": "gt-tag-255",
@@ -2037,7 +2291,8 @@
     "category": "Git",
     "description": "Git标签：github",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "github"
   },
   {
     "id": "gt-tag-256",
@@ -2045,7 +2300,8 @@
     "category": "Git",
     "description": "Git标签：app",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "app"
   },
   {
     "id": "gt-tag-257",
@@ -2053,7 +2309,8 @@
     "category": "Git",
     "description": "Git标签：webhook",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "webhook"
   },
   {
     "id": "gt-tag-258",
@@ -2061,7 +2318,8 @@
     "category": "Git",
     "description": "Git标签：payload",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "payload"
   },
   {
     "id": "gt-tag-259",
@@ -2069,7 +2327,8 @@
     "category": "Git",
     "description": "Git标签：event",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "event"
   },
   {
     "id": "gt-tag-260",
@@ -2077,7 +2336,8 @@
     "category": "Git",
     "description": "Git标签：type",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "type"
   },
   {
     "id": "gt-tag-261",
@@ -2085,7 +2345,8 @@
     "category": "Git",
     "description": "Git标签：push",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "push"
   },
   {
     "id": "gt-tag-262",
@@ -2093,7 +2354,8 @@
     "category": "Git",
     "description": "Git标签：event",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "event"
   },
   {
     "id": "gt-tag-263",
@@ -2101,7 +2363,8 @@
     "category": "Git",
     "description": "Git标签：pull_request",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "pull_request"
   },
   {
     "id": "gt-tag-264",
@@ -2109,7 +2372,8 @@
     "category": "Git",
     "description": "Git标签：event",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "event"
   },
   {
     "id": "gt-tag-265",
@@ -2117,7 +2381,8 @@
     "category": "Git",
     "description": "Git标签：issue",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "issue"
   },
   {
     "id": "gt-tag-266",
@@ -2125,7 +2390,8 @@
     "category": "Git",
     "description": "Git标签：event",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "event"
   },
   {
     "id": "gt-tag-267",
@@ -2133,7 +2399,8 @@
     "category": "Git",
     "description": "Git标签：discussion",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "discussion"
   },
   {
     "id": "gt-tag-268",
@@ -2141,7 +2408,8 @@
     "category": "Git",
     "description": "Git标签：event",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "event"
   },
   {
     "id": "gt-tag-269",
@@ -2149,7 +2417,8 @@
     "category": "Git",
     "description": "Git标签：star",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "star"
   },
   {
     "id": "gt-tag-270",
@@ -2157,7 +2426,8 @@
     "category": "Git",
     "description": "Git标签：fork",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "fork"
   },
   {
     "id": "gt-tag-271",
@@ -2165,7 +2435,8 @@
     "category": "Git",
     "description": "Git标签：watch",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "watch"
   },
   {
     "id": "gt-tag-272",
@@ -2173,7 +2444,8 @@
     "category": "Git",
     "description": "Git标签：release",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "release"
   },
   {
     "id": "gt-tag-273",
@@ -2181,7 +2453,8 @@
     "category": "Git",
     "description": "Git标签：workflow_run",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "workflow_run"
   },
   {
     "id": "gt-tag-274",
@@ -2189,7 +2462,8 @@
     "category": "Git",
     "description": "Git标签：check",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "check"
   },
   {
     "id": "gt-tag-275",
@@ -2197,7 +2471,8 @@
     "category": "Git",
     "description": "Git标签：suite",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "suite"
   },
   {
     "id": "gt-tag-276",
@@ -2205,7 +2480,8 @@
     "category": "Git",
     "description": "Git标签：check",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "check"
   },
   {
     "id": "gt-tag-277",
@@ -2213,7 +2489,8 @@
     "category": "Git",
     "description": "Git标签：run",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "run"
   },
   {
     "id": "gt-tag-278",
@@ -2221,7 +2498,8 @@
     "category": "Git",
     "description": "Git标签：status",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "status"
   },
   {
     "id": "gt-tag-279",
@@ -2229,7 +2507,8 @@
     "category": "Git",
     "description": "Git标签：deployment",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "deployment"
   },
   {
     "id": "gt-tag-280",
@@ -2237,7 +2516,8 @@
     "category": "Git",
     "description": "Git标签：deployment",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "deployment"
   },
   {
     "id": "gt-tag-281",
@@ -2245,7 +2525,8 @@
     "category": "Git",
     "description": "Git标签：status",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "status"
   },
   {
     "id": "gt-tag-282",
@@ -2253,7 +2534,8 @@
     "category": "Git",
     "description": "Git标签：project",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "project"
   },
   {
     "id": "gt-tag-283",
@@ -2261,7 +2543,8 @@
     "category": "Git",
     "description": "Git标签：card",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "card"
   },
   {
     "id": "gt-tag-284",
@@ -2269,7 +2552,8 @@
     "category": "Git",
     "description": "Git标签：project",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "project"
   },
   {
     "id": "gt-tag-285",
@@ -2277,7 +2561,8 @@
     "category": "Git",
     "description": "Git标签：column",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "column"
   },
   {
     "id": "gt-tag-286",
@@ -2285,7 +2570,8 @@
     "category": "Git",
     "description": "Git标签：project",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "project"
   },
   {
     "id": "gt-tag-287",
@@ -2293,7 +2579,8 @@
     "category": "Git",
     "description": "Git标签：board",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "board"
   },
   {
     "id": "gt-tag-288",
@@ -2301,7 +2588,8 @@
     "category": "Git",
     "description": "Git标签：milestone",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "milestone"
   },
   {
     "id": "gt-tag-289",
@@ -2309,7 +2597,8 @@
     "category": "Git",
     "description": "Git标签：issue",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "issue"
   },
   {
     "id": "gt-tag-290",
@@ -2317,7 +2606,8 @@
     "category": "Git",
     "description": "Git标签：label",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "label"
   },
   {
     "id": "gt-tag-291",
@@ -2325,7 +2615,8 @@
     "category": "Git",
     "description": "Git标签：assignee",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "assignee"
   },
   {
     "id": "gt-tag-292",
@@ -2333,7 +2624,8 @@
     "category": "Git",
     "description": "Git标签：reviewer",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "reviewer"
   },
   {
     "id": "gt-tag-293",
@@ -2341,7 +2633,8 @@
     "category": "Git",
     "description": "Git标签：team",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "team"
   },
   {
     "id": "gt-tag-294",
@@ -2349,7 +2642,8 @@
     "category": "Git",
     "description": "Git标签：discussion",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "discussion"
   },
   {
     "id": "gt-tag-295",
@@ -2357,7 +2651,8 @@
     "category": "Git",
     "description": "Git标签：comment",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "comment"
   },
   {
     "id": "gt-tag-296",
@@ -2365,7 +2660,8 @@
     "category": "Git",
     "description": "Git标签：reaction",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "reaction"
   },
   {
     "id": "gt-tag-297",
@@ -2373,7 +2669,8 @@
     "category": "Git",
     "description": "Git标签：emoji",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "emoji"
   },
   {
     "id": "gt-tag-298",
@@ -2381,7 +2678,8 @@
     "category": "Git",
     "description": "Git标签：commit",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "commit"
   },
   {
     "id": "gt-tag-299",
@@ -2389,7 +2687,8 @@
     "category": "Git",
     "description": "Git标签：status",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "status"
   },
   {
     "id": "gt-tag-300",
@@ -2397,7 +2696,8 @@
     "category": "Git",
     "description": "Git标签：commit",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "commit"
   },
   {
     "id": "gt-tag-301",
@@ -2405,7 +2705,8 @@
     "category": "Git",
     "description": "Git标签：check",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "check"
   },
   {
     "id": "gt-tag-302",
@@ -2413,7 +2714,8 @@
     "category": "Git",
     "description": "Git标签：CI",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "ci"
   },
   {
     "id": "gt-tag-303",
@@ -2421,7 +2723,8 @@
     "category": "Git",
     "description": "Git标签：check",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "check"
   },
   {
     "id": "gt-tag-304",
@@ -2429,7 +2732,8 @@
     "category": "Git",
     "description": "Git标签：suite",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "suite"
   },
   {
     "id": "gt-tag-305",
@@ -2437,7 +2741,8 @@
     "category": "Git",
     "description": "Git标签：check",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "check"
   },
   {
     "id": "gt-tag-306",
@@ -2445,7 +2750,8 @@
     "category": "Git",
     "description": "Git标签：run",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "run"
   },
   {
     "id": "gt-tag-307",
@@ -2453,7 +2759,8 @@
     "category": "Git",
     "description": "Git标签：conclusion",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "conclusion"
   },
   {
     "id": "gt-tag-308",
@@ -2461,7 +2768,8 @@
     "category": "Git",
     "description": "Git标签：neutral",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "neutral"
   },
   {
     "id": "gt-tag-309",
@@ -2469,7 +2777,8 @@
     "category": "Git",
     "description": "Git标签：cancelled",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "cancelled"
   },
   {
     "id": "gt-tag-310",
@@ -2477,7 +2786,8 @@
     "category": "Git",
     "description": "Git标签：timed_out",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "timed_out"
   },
   {
     "id": "gt-tag-311",
@@ -2485,7 +2795,8 @@
     "category": "Git",
     "description": "Git标签：action_required",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "action_required"
   },
   {
     "id": "gt-tag-312",
@@ -2493,7 +2804,8 @@
     "category": "Git",
     "description": "Git标签：queued",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "queued"
   },
   {
     "id": "gt-tag-313",
@@ -2501,7 +2813,8 @@
     "category": "Git",
     "description": "Git标签：in_progress",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "in_progress"
   },
   {
     "id": "gt-tag-314",
@@ -2509,7 +2822,8 @@
     "category": "Git",
     "description": "Git标签：completed",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "completed"
   },
   {
     "id": "gt-tag-315",
@@ -2517,7 +2831,8 @@
     "category": "Git",
     "description": "Git标签：skipped",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "skipped"
   },
   {
     "id": "gt-tag-316",
@@ -2525,7 +2840,8 @@
     "category": "Git",
     "description": "Git标签：failure",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "failure"
   },
   {
     "id": "gt-tag-317",
@@ -2533,7 +2849,8 @@
     "category": "Git",
     "description": "Git标签：success",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "success"
   },
   {
     "id": "gt-tag-318",
@@ -2541,7 +2858,8 @@
     "category": "Git",
     "description": "Git标签：error",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "error"
   },
   {
     "id": "gt-tag-319",
@@ -2549,7 +2867,8 @@
     "category": "Git",
     "description": "Git标签:Git标签1",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签1"
   },
   {
     "id": "gt-tag-320",
@@ -2557,7 +2876,8 @@
     "category": "Git",
     "description": "Git标签:Git标签2",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签2"
   },
   {
     "id": "gt-tag-321",
@@ -2565,7 +2885,8 @@
     "category": "Git",
     "description": "Git标签:Git标签3",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签3"
   },
   {
     "id": "gt-tag-322",
@@ -2573,7 +2894,8 @@
     "category": "Git",
     "description": "Git标签:Git标签4",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签4"
   },
   {
     "id": "gt-tag-323",
@@ -2581,7 +2903,8 @@
     "category": "Git",
     "description": "Git标签:Git标签5",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签5"
   },
   {
     "id": "gt-tag-324",
@@ -2589,7 +2912,8 @@
     "category": "Git",
     "description": "Git标签:Git标签6",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签6"
   },
   {
     "id": "gt-tag-325",
@@ -2597,7 +2921,8 @@
     "category": "Git",
     "description": "Git标签:Git标签7",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签7"
   },
   {
     "id": "gt-tag-326",
@@ -2605,7 +2930,8 @@
     "category": "Git",
     "description": "Git标签:Git标签8",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签8"
   },
   {
     "id": "gt-tag-327",
@@ -2613,7 +2939,8 @@
     "category": "Git",
     "description": "Git标签:Git标签9",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签9"
   },
   {
     "id": "gt-tag-328",
@@ -2621,7 +2948,8 @@
     "category": "Git",
     "description": "Git标签:Git标签10",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签10"
   },
   {
     "id": "gt-tag-329",
@@ -2629,7 +2957,8 @@
     "category": "Git",
     "description": "Git标签:Git标签11",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签11"
   },
   {
     "id": "gt-tag-330",
@@ -2637,7 +2966,8 @@
     "category": "Git",
     "description": "Git标签:Git标签12",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签12"
   },
   {
     "id": "gt-tag-331",
@@ -2645,7 +2975,8 @@
     "category": "Git",
     "description": "Git标签:Git标签13",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签13"
   },
   {
     "id": "gt-tag-332",
@@ -2653,7 +2984,8 @@
     "category": "Git",
     "description": "Git标签:Git标签14",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签14"
   },
   {
     "id": "gt-tag-333",
@@ -2661,7 +2993,8 @@
     "category": "Git",
     "description": "Git标签:Git标签15",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签15"
   },
   {
     "id": "gt-tag-334",
@@ -2669,7 +3002,8 @@
     "category": "Git",
     "description": "Git标签:Git标签16",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签16"
   },
   {
     "id": "gt-tag-335",
@@ -2677,7 +3011,8 @@
     "category": "Git",
     "description": "Git标签:Git标签17",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签17"
   },
   {
     "id": "gt-tag-336",
@@ -2685,7 +3020,8 @@
     "category": "Git",
     "description": "Git标签:Git标签18",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签18"
   },
   {
     "id": "gt-tag-337",
@@ -2693,7 +3029,8 @@
     "category": "Git",
     "description": "Git标签:Git标签19",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签19"
   },
   {
     "id": "gt-tag-338",
@@ -2701,7 +3038,8 @@
     "category": "Git",
     "description": "Git标签:Git标签20",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签20"
   },
   {
     "id": "gt-tag-339",
@@ -2709,7 +3047,8 @@
     "category": "Git",
     "description": "Git标签:Git标签21",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签21"
   },
   {
     "id": "gt-tag-340",
@@ -2717,7 +3056,8 @@
     "category": "Git",
     "description": "Git标签:Git标签22",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签22"
   },
   {
     "id": "gt-tag-341",
@@ -2725,7 +3065,8 @@
     "category": "Git",
     "description": "Git标签:Git标签23",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签23"
   },
   {
     "id": "gt-tag-342",
@@ -2733,7 +3074,8 @@
     "category": "Git",
     "description": "Git标签:Git标签24",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签24"
   },
   {
     "id": "gt-tag-343",
@@ -2741,7 +3083,8 @@
     "category": "Git",
     "description": "Git标签:Git标签25",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签25"
   },
   {
     "id": "gt-tag-344",
@@ -2749,7 +3092,8 @@
     "category": "Git",
     "description": "Git标签:Git标签26",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签26"
   },
   {
     "id": "gt-tag-345",
@@ -2757,7 +3101,8 @@
     "category": "Git",
     "description": "Git标签:Git标签27",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签27"
   },
   {
     "id": "gt-tag-346",
@@ -2765,7 +3110,8 @@
     "category": "Git",
     "description": "Git标签:Git标签28",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签28"
   },
   {
     "id": "gt-tag-347",
@@ -2773,7 +3119,8 @@
     "category": "Git",
     "description": "Git标签:Git标签29",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签29"
   },
   {
     "id": "gt-tag-348",
@@ -2781,7 +3128,8 @@
     "category": "Git",
     "description": "Git标签:Git标签30",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签30"
   },
   {
     "id": "gt-tag-349",
@@ -2789,7 +3137,8 @@
     "category": "Git",
     "description": "Git标签:Git标签31",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签31"
   },
   {
     "id": "gt-tag-350",
@@ -2797,7 +3146,8 @@
     "category": "Git",
     "description": "Git标签:Git标签32",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签32"
   },
   {
     "id": "gt-tag-351",
@@ -2805,7 +3155,8 @@
     "category": "Git",
     "description": "Git标签:Git标签33",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签33"
   },
   {
     "id": "gt-tag-352",
@@ -2813,7 +3164,8 @@
     "category": "Git",
     "description": "Git标签:Git标签34",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签34"
   },
   {
     "id": "gt-tag-353",
@@ -2821,7 +3173,8 @@
     "category": "Git",
     "description": "Git标签:Git标签35",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签35"
   },
   {
     "id": "gt-tag-354",
@@ -2829,7 +3182,8 @@
     "category": "Git",
     "description": "Git标签:Git标签36",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签36"
   },
   {
     "id": "gt-tag-355",
@@ -2837,7 +3191,8 @@
     "category": "Git",
     "description": "Git标签:Git标签37",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签37"
   },
   {
     "id": "gt-tag-356",
@@ -2845,7 +3200,8 @@
     "category": "Git",
     "description": "Git标签:Git标签38",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签38"
   },
   {
     "id": "gt-tag-357",
@@ -2853,7 +3209,8 @@
     "category": "Git",
     "description": "Git标签:Git标签39",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签39"
   },
   {
     "id": "gt-tag-358",
@@ -2861,7 +3218,8 @@
     "category": "Git",
     "description": "Git标签:Git标签40",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签40"
   },
   {
     "id": "gt-tag-359",
@@ -2869,7 +3227,8 @@
     "category": "Git",
     "description": "Git标签:Git标签41",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签41"
   },
   {
     "id": "gt-tag-360",
@@ -2877,7 +3236,8 @@
     "category": "Git",
     "description": "Git标签:Git标签42",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签42"
   },
   {
     "id": "gt-tag-361",
@@ -2885,7 +3245,8 @@
     "category": "Git",
     "description": "Git标签:Git标签43",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签43"
   },
   {
     "id": "gt-tag-362",
@@ -2893,7 +3254,8 @@
     "category": "Git",
     "description": "Git标签:Git标签44",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签44"
   },
   {
     "id": "gt-tag-363",
@@ -2901,7 +3263,8 @@
     "category": "Git",
     "description": "Git标签:Git标签45",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签45"
   },
   {
     "id": "gt-tag-364",
@@ -2909,7 +3272,8 @@
     "category": "Git",
     "description": "Git标签:Git标签46",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签46"
   },
   {
     "id": "gt-tag-365",
@@ -2917,7 +3281,8 @@
     "category": "Git",
     "description": "Git标签:Git标签47",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签47"
   },
   {
     "id": "gt-tag-366",
@@ -2925,7 +3290,8 @@
     "category": "Git",
     "description": "Git标签:Git标签48",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签48"
   },
   {
     "id": "gt-tag-367",
@@ -2933,7 +3299,8 @@
     "category": "Git",
     "description": "Git标签:Git标签49",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签49"
   },
   {
     "id": "gt-tag-368",
@@ -2941,6 +3308,7 @@
     "category": "Git",
     "description": "Git标签:Git标签50",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "git标签50"
   }
 ]
